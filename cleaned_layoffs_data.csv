@@ -1,0 +1,1244 @@
+,Company,Location_HQ,Industry,Percentage,Funds_Raised,Country,Laid_Off_Count
+5,Ritual,Toronto,Food,0.4,134.0,Canada,38.0
+7,Grab,Singapore,Transportation,0.11,16500.0,Singapore,1000.0
+10,Chigari,Bengaluru,Media,0.2,88.0,India,48.0
+13,Mojocare,Bengaluru,Healthcare,0.8,24.0,India,170.0
+17,CareRev,Los Angeles,Healthcare,0.33,51.0,United States,100.0
+22,Bitwise,SF Bay Area,Crypto,1.0,84.0,United States,900.0
+23,Sonos,New York City,Consumer,0.07,455.2,United States,130.0
+24,TrueCar,Los Angeles,Transportation,0.24,340.0,United States,102.0
+25,Olo,New York City,Food,0.11,184.0,United States,81.0
+29,Grubhub,SF Bay Area,Food,0.15,284.0,United States,400.0
+30,Pendo,Raleigh,Product,0.12,469.0,United States,100.0
+31,Chegg,SF Bay Area,Education,0.04,227.0,United States,80.0
+34,TaxBit,SF Bay Area,Crypto,0.4,253.0,United States,80.0
+36,Trybe,Sao Paulo,Education,0.35,40.0,Brazil,128.0
+37,23andMe,SF Bay Area,Healthcare,0.09,1100.0,United States,75.0
+38,Expel,Washington D.C.,Security,0.1,288.0,United States,60.0
+40,Cityblock Health,New York City,Healthcare,0.12,891.0,United States,155.0
+41,Highspot,Seattle,Sales,0.15,644.0,United States,140.0
+53,Edgio,Phoenix,Infrastructure,0.12,462.0,United States,134.0
+54,Reddit,SF Bay Area,Consumer,0.05,1300.0,United States,90.0
+55,Linktree,Melbourne,Consumer,0.27,165.0,Australia,60.0
+56,Dragos,Baltimore,Security,0.09,364.0,United States,50.0
+60,Spotify,Stockholm,Media,0.02,2100.0,Sweden,200.0
+64,ZoomInfo,Vancouver,Sales,0.03,7.0,United States,120.0
+70,Outbrain,New York City,Marketing,0.1,394.0,United States,90.0
+76,Zendesk,SF Bay Area,Support,0.08,85.0,United States,320.0
+77,ZipRecruiter,Los Angeles,Recruiting,0.2,769.0,United States,270.0
+78,Vendr,Boston,Other,0.25,216.0,United States,100.0
+80,Mux,SF Bay Area,Infrastructure,0.3,173.0,United States,40.0
+81,Taxfix,Berlin,Finance,0.2,330.0,Germany,120.0
+86,Project44,Chicago,Logistics,0.1,817.0,United States,130.0
+89,Airmeet,Bengaluru,Marketing,0.3,50.0,India,75.0
+92,Guild,Denver,Education,0.12,643.0,United States,172.0
+94,Flink,Berlin,Food,0.16,1000.0,Germany,100.0
+95,Western Digital,Kfar Saba,Hardware,0.07,900.0,Israel,60.0
+107,Pie Insurance,Washington D.C.,Finance,0.14,621.0,United States,63.0
+113,Stash,New York City,Finance,0.1,480.0,United States,40.0
+116,Zepz,London,Finance,0.26,700.0,United Kingdom,420.0
+117,Lemonade,New York City,Finance,0.03,481.0,United States,45.0
+121,Nuro,SF Bay Area,Transportation,0.3,2100.0,United States,340.0
+123,Happay,Bengaluru,Finance,0.35,21.0,India,160.0
+128,Cornershop,Santiago,Food,0.11,31.0,Chile,250.0
+132,Redbubble,Melbourne,Retail,0.23,55.0,Australia,70.0
+133,Similarweb,New York City,Other,0.06,235.0,United States,60.0
+134,Stack Overflow,New York City,Recruiting,0.1,153.0,United States,58.0
+135,Akamai,Boston,Security,0.03,35.0,United States,290.0
+136,Sonatype,Baltimore,Security,0.14,154.0,United States,100.0
+137,AudioCodes,Tel Aviv,Other,0.06,91.0,Israel,80.0
+140,LinkedIn,SF Bay Area,Recruiting,0.04,154.0,United States,716.0
+145,Twist Bioscience,SF Bay Area,Healthcare,0.25,503.0,United States,270.0
+146,Meesho,Bengaluru,Retail,0.15,1100.0,India,251.0
+149,Shopify,Ottawa,Retail,0.2,122.0,Canada,2300.0
+150,Sabre,Dallas,Travel,0.15,1700.0,United States,1100.0
+152,Autograph,Los Angeles,Crypto,0.33,205.0,United States,30.0
+153,Earnix,Tel Aviv,Finance,0.1,100.0,Israel,30.0
+154,Karma,Tel Aviv,Retail,0.28,34.0,Israel,20.0
+156,Unity,SF Bay Area,Other,0.08,1300.0,United States,600.0
+157,Upwork,SF Bay Area,Other,0.15,168.0,United States,137.0
+159,Healthy.io,Tel Aviv,Healthcare,0.33,185.0,United States,70.0
+161,TheSkimm,New York City,Media,0.13,28.0,United States,22.0
+164,Bishop Fox,Phoenix,Security,0.13,146.0,United States,50.0
+165,Zoomo,Sydney,Transportation,0.08,105.0,Australia,27.0
+170,Cue Health,San Diego,Healthcare,0.3,899.0,United States,326.0
+171,N26,Berlin,Finance,0.04,1700.0,United States,71.0
+175,Dropbox,SF Bay Area,Other,0.16,1700.0,United States,500.0
+176,Alteryx,Los Angeles,Data,0.11,613.0,United States,320.0
+177,Vroom,New York City,Transportation,0.11,1300.0,United States,120.0
+178,Greenhouse,New York City,Recruiting,0.12,110.0,United States,100.0
+181,Megaport,Brisbane,Infrastructure,0.16,98.0,Australia,50.0
+182,Airtasker,Sydney,Retail,0.2,26.0,Australia,45.0
+183,Chief,New York City,Other,0.14,140.0,United States,43.0
+184,Tickertape,Bengaluru,Finance,0.29,5.0,India,29.0
+188,Teampay,New York City,Finance,0.33,79.0,United States,30.0
+191,Rapid,SF Bay Area,Finance,0.5,272.0,United States,115.0
+192,Rapid,SF Bay Area,Finance,0.3,272.0,United States,70.0
+193,Flink,Berlin,Food,0.4,1000.0,Germany,8000.0
+195,BigPanda,SF Bay Area,Infrastructure,0.13,337.0,United States,40.0
+196,Lyft,SF Bay Area,Transportation,0.26,4900.0,United States,1072.0
+197,Benchling,SF Bay Area,Other,0.09,411.0,United States,74.0
+199,BuzzFeed,New York City,Media,0.15,696.0,United States,180.0
+200,Koo,Bengaluru,Consumer,0.3,50.0,India,78.0
+202,Gloat,New York City,HR,0.12,192.0,United States,35.0
+206,WalkMe,SF Bay Area,Other,0.1,307.0,United States,112.0
+207,Opendoor,SF Bay Area,Real Estate,0.22,1900.0,United States,560.0
+209,Culture Amp,Melbourne,HR,0.09,257.0,Australia,90.0
+210,TRM Labs,SF Bay Area,Crypto,0.09,149.0,United States,16.0
+213,Clearcover,Chicago,Finance,0.15,304.0,United States,81.0
+214,Paper,Montreal,Education,0.03,389.0,Canada,81.0
+215,Ynsect,Paris,Food,0.25,579.0,France,17.0
+219,Drip Capital,SF Bay Area,Finance,0.2,85.0,United States,75.0
+220,Community Gaming,New York City,Crypto,0.17,18.0,United States,17.0
+224,Astronomer,Cincinnati,Data,0.4,282.0,United States,100.0
+229,Viasat,San Diego,Other,0.04,366.0,United States,300.0
+232,Milkrun,Sydney,Food,1.0,86.0,Australia,400.0
+233,Redfin,Seattle,Real Estate,0.04,320.0,United States,201.0
+234,Permutive,London,Marketing,0.4,105.0,United Kingdom,80.0
+235,Examedi,Santiago,Healthcare,0.25,19.0,Chile,45.0
+239,Flock Freight,San Diego,Logistics,0.08,399.0,United States,45.0
+240,Nori,Seattle,Energy,0.37,13.0,United States,10.0
+241,Simpl,Bengaluru,Finance,0.25,71.0,India,150.0
+243,Pear Therapeutics,Boston,Healthcare,0.92,409.0,United States,170.0
+245,ZestMoney,Bengaluru,Finance,0.2,120.0,India,100.0
+248,Dunzo,Bengaluru,Food,0.3,382.0,India,300.0
+249,Amplitude,SF Bay Area,Data,0.13,311.0,United States,99.0
+253,Boost,New York City,Finance,0.2,37.0,United States,15.0
+256,View,SF Bay Area,Other,0.23,2300.0,United States,170.0
+257,Guideline,SF Bay Area,Finance,0.11,339.0,United States,48.0
+258,Textio,Seattle,Recruiting,0.12,42.0,United States,15.0
+261,Domestika,Madrid,Education,0.45,130.0,Spain,89.0
+264,Roku,SF Bay Area,Media,0.06,208.0,United States,200.0
+266,FanClash,Gurugram,Consumer,0.75,50.0,India,100.0
+267,Loop,Austin,Finance,0.25,24.0,United States,19.0
+268,Crossbeam,Philadelphia,Sales,0.15,116.0,United States,17.0
+276,Electronic Arts,SF Bay Area,Consumer,0.06,2.0,United States,780.0
+279,iCAD,Nashua,Healthcare,0.28,59.0,United States,23.0
+283,Lucid Motors,SF Bay Area,Transportation,0.18,8300.0,United States,1300.0
+285,AEye,SF Bay Area,Transportation,0.33,314.0,United States,46.0
+293,Slite,Paris,Other,0.25,15.0,France,10.0
+294,Indeed,Austin,HR,0.15,5.0,United States,2200.0
+296,Glassdoor,SF Bay Area,HR,0.15,204.0,United States,140.0
+297,Wejo,Chester,Transportation,0.16,376.0,United Kingdom,40.0
+302,Workhuman,Dublin,HR,0.1,131.0,Ireland,130.0
+303,FreshBooks,Toronto,Finance,0.1,331.0,Canada,80.0
+306,Smallcase,Bengaluru,Finance,0.04,62.0,India,15.0
+313,Livspace,Bengaluru,Retail,0.02,431.0,India,100.0
+314,Symend,Calgary,Other,0.25,148.0,Canada,50.0
+316,Freshworks,SF Bay Area,Support,0.02,484.0,United States,114.0
+319,Course Hero,SF Bay Area,Education,0.15,477.0,United States,42.0
+320,Leafly,Seattle,Retail,0.21,71.0,United States,40.0
+323,Dukaan,Bengaluru,Retail,0.3,17.0,India,56.0
+324,Boxed,New York City,Retail,0.25,365.0,United States,32.0
+326,TradeWindow,Auckland,Finance,0.3,24.0,New Zealand,25.0
+329,Fetch,Madison,Retail,0.1,581.0,United States,100.0
+330,Anchorage Digital,SF Bay Area,Crypto,0.2,487.0,United States,75.0
+331,Avidbots,Kitchener,Hardware,0.14,106.0,Canada,50.0
+333,Kaleidoscope,Minneapolis,Finance,0.3,16.0,United States,15.0
+336,Xero,Wellington,Finance,0.15,681.0,New Zealand,800.0
+338,Gopuff,Philadelphia,Food,0.02,3400.0,United States,100.0
+344,Wattpad,Toronto,Media,0.15,117.0,Canada,42.0
+346,Pristyn Care,Gurugram,Healthcare,0.15,177.0,India,300.0
+347,Zwift,Los Angeles,Fitness,0.15,619.0,United States,80.0
+352,Atlassian,Sydney,Other,0.05,210.0,Australia,500.0
+353,SiriusXM,New York City,Media,0.08,525.0,United States,475.0
+360,Loft,Sao Paulo,Real Estate,0.15,788.0,Brazil,340.0
+361,Embark Trucks,SF Bay Area,Transportation,0.7,317.0,United States,230.0
+367,Zscaler,SF Bay Area,Security,0.03,148.0,United States,177.0
+370,Fittr,Pune,Fitness,0.11,13.0,India,30.0
+371,CNET,SF Bay Area,Media,0.1,20.0,United States,12.0
+377,Thoughtworks,Chicago,Other,0.04,748.0,United States,500.0
+378,iFood,Sao Paulo,Food,0.06,2100.0,Brazil,355.0
+380,Waymo,SF Bay Area,Transportation,0.08,5500.0,United States,209.0
+381,PayFit,Paris,HR,0.2,495.0,France,200.0
+383,Sonder,SF Bay Area,Travel,0.14,839.0,United States,100.0
+386,Eventbrite,SF Bay Area,Consumer,0.08,557.0,United States,80.0
+390,Cerebral,SF Bay Area,Healthcare,0.15,462.0,United States,285.0
+391,Amount,Chicago,Finance,0.25,283.0,United States,130.0
+392,Palantir,Denver,Data,0.02,3000.0,United States,75.0
+393,Outreach,Seattle,Sales,0.07,489.0,United States,70.0
+394,Stytch,SF Bay Area,Security,0.25,126.0,United States,19.0
+396,Twitter,SF Bay Area,Consumer,0.1,12900.0,United States,200.0
+397,Ericsson,Stockholm,Other,0.08,663.0,Sweden,8500.0
+407,OneFootball,Berlin,Marketing,0.32,442.0,Germany,150.0
+420,Green Labs,Seoul,Food,0.7,214.0,South Korea,350.0
+421,Polygon,Bengaluru,Crypto,0.2,451.0,India,100.0
+424,Basis Technologies,Chicago,Marketing,0.04,52.0,United States,40.0
+429,MyGate,Bengaluru,Other,0.3,79.0,India,200.0
+430,Fireblocks,New York City,Crypto,0.05,1000.0,United States,30.0
+431,Kinde,Sydney,Other,0.28,10.0,Australia,8.0
+434,Micron,Boise,Hardware,0.05,50.0,United States,2400.0
+437,Chipper Cash,SF Bay Area,Finance,0.33,302.0,United States,100.0
+440,DocuSign,SF Bay Area,Sales,0.1,536.0,United States,680.0
+441,Pico Interactive,SF Bay Area,Other,0.2,62.0,United States,400.0
+442,The RealReal,SF Bay Area,Retail,0.07,356.0,United States,230.0
+443,Smartsheet,Seattle,Other,0.03,152.0,United States,85.0
+445,Wix,Tel Aviv,Marketing,0.06,58.0,Israel,370.0
+446,ServiceTitan,Los Angeles,Sales,0.08,1100.0,United States,221.0
+447,Neon,Sao Paulo,Finance,0.09,720.0,Brazil,210.0
+449,DigitalOcean,New York City,Infrastructure,0.11,491.0,United States,200.0
+450,Sprinklr,New York City,Support,0.04,429.0,United States,100.0
+461,Dropp,Berlin,Retail,1.0,2.0,Germany,60.0
+465,Twilio,SF Bay Area,Other,0.17,614.0,United States,1500.0
+466,Electric,New York City,Other,0.25,212.0,United States,141.0
+469,iRobot,Boston,Consumer,0.07,30.0,United States,85.0
+476,Moladin,Jakarta,Transportation,0.11,138.0,Indonesia,360.0
+477,TripleLift,New York City,Marketing,0.2,16.0,United States,100.0
+478,Titan Medical,Toronto,Healthcare,0.72,278.0,Canada,48.0
+484,Yahoo,SF Bay Area,Consumer,0.2,6.0,United States,1600.0
+485,Misfits Market,Philadelphia,Food,0.33,526.0,United States,649.0
+486,Deliveroo,London,Food,0.09,1700.0,United Kingdom,350.0
+487,Olive AI,Columbus,Healthcare,0.35,856.0,United States,215.0
+488,Oportun,SF Bay Area,Finance,0.1,566.0,United States,155.0
+489,GitLab,SF Bay Area,Product,0.07,413.0,United States,130.0
+491,Nomad Health,New York City,Healthcare,0.17,218.0,United States,119.0
+492,Veriff,Tallinn,Security,0.12,192.0,Estonia,66.0
+493,REE Automotive,Tel Aviv,Transportation,0.11,317.0,Israel,31.0
+497,GoDaddy,Phoenix,Marketing,0.08,800.0,United States,530.0
+498,Affirm,SF Bay Area,Finance,0.19,1500.0,United States,500.0
+499,Gusto,SF Bay Area,HR,0.05,746.0,United States,126.0
+500,Gong,SF Bay Area,Sales,0.07,583.0,United States,80.0
+501,Beam Benefits,Columbus,Healthcare,0.08,168.0,United States,31.0
+502,Equitybee,SF Bay Area,Finance,0.25,85.0,United States,24.0
+507,Zoom,SF Bay Area,Other,0.15,276.0,United States,1300.0
+508,eBay,SF Bay Area,Retail,0.04,1200.0,United States,500.0
+509,SecureWorks,Atlanta,Security,0.09,83.0,United States,212.0
+510,Salesloft,Atlanta,Sales,0.1,245.0,United States,100.0
+511,Openpay,Melbourne,Finance,1.0,299.0,Australia,83.0
+512,LearnUpon,Dublin,Education,0.09,56.0,Ireland,27.0
+515,Loggi,Sao Paulo,Logistics,0.07,507.0,Brazil,300.0
+519,Pocket Aces,Mumbai,Media,0.25,19.0,India,50.0
+525,Lightico,Tel Aviv,Finance,0.25,42.0,Israel,20.0
+526,Eightfold AI,SF Bay Area,HR,0.15,396.0,United States,90.0
+528,Protocol Labs,SF Bay Area,Crypto,0.2,10.0,United States,89.0
+531,Okta,SF Bay Area,Security,0.05,1200.0,United States,300.0
+535,Miro,SF Bay Area,Other,0.07,476.0,United States,119.0
+537,Highspot,Seattle,Sales,0.1,644.0,United States,100.0
+546,Splunk,SF Bay Area,Data,0.04,2400.0,United States,325.0
+548,DraftKings,Boston,Consumer,0.04,719.0,United States,140.0
+550,Workato,SF Bay Area,Other,0.1,415.0,United States,90.0
+552,Wheel,Austin,Healthcare,0.28,215.0,United States,56.0
+553,Chainalysis,New York City,Crypto,0.05,536.0,United States,44.0
+555,Exterro,Portland,Legal,0.03,100.0,United States,24.0
+556,TheSkimm,New York City,Media,0.1,28.0,United States,17.0
+565,PayPal,SF Bay Area,Finance,0.07,216.0,United States,2000.0
+567,Workday,SF Bay Area,HR,0.03,230.0,United States,525.0
+568,HubSpot,Boston,Marketing,0.07,100.0,United States,500.0
+569,Upstart,SF Bay Area,Finance,0.2,144.0,United States,365.0
+570,Software AG,Frankfurt,Data,0.04,344.0,Germany,200.0
+571,Wish,SF Bay Area,Retail,0.17,1600.0,United States,150.0
+573,Tilting Point,New York City,Consumer,0.14,235.0,United States,60.0
+576,AU10TIX,Tel Aviv,Security,0.09,80.0,Israel,19.0
+581,Arrival,London,Transportation,0.5,629.0,United Kingdom,800.0
+584,Glovo,Barcelona,Food,0.06,1200.0,Spain,250.0
+585,Delivery Hero,Berlin,Food,0.04,9900.0,Germany,156.0
+586,Impossible Foods copy,SF Bay Area,Food,0.2,1900.0,United States,140.0
+587,Chrono24,Karlsruhe,Retail,0.13,205.0,Germany,65.0
+598,DealShare,Bengaluru,Retail,0.06,390.0,India,100.0
+602,Matrixport,Singapore,Crypto,0.1,100.0,Singapore,29.0
+603,Shakepay,Montreal,Crypto,0.25,45.0,Canada,21.0
+604,#Paid,Toronto,Marketing,0.17,21.0,Canada,19.0
+609,SAP,Walldorf,Other,0.03,1300.0,Germany,3000.0
+610,Confluent,SF Bay Area,Data,0.08,455.0,United States,221.0
+618,Luno,London,Crypto,0.35,13.0,United Kingdom,330.0
+620,Guardant Health,SF Bay Area,Healthcare,0.07,550.0,United States,130.0
+621,SirionLabs,Seattle,Legal,0.15,171.0,United States,130.0
+622,Tier Mobility,Berlin,Transportation,0.07,646.0,Germany,80.0
+628,Vacasa,Portland,Travel,0.17,834.0,United States,1300.0
+629,Innovaccer,SF Bay Area,Healthcare,0.15,379.0,United States,245.0
+630,Bolt,SF Bay Area,Finance,0.1,1300.0,United States,50.0
+631,PartnerStack,Toronto,Sales,0.2,36.0,Canada,40.0
+632,Gitpod,Kiel,Product,0.28,41.0,Germany,21.0
+640,Spotify,Stockholm,Media,0.06,2100.0,Sweden,600.0
+641,Uber Freight,SF Bay Area,Logistics,0.03,2700.0,United States,150.0
+643,Innovid,New York City,Marketing,0.1,295.0,United States,40.0
+645,Ermetic,SF Bay Area,Security,0.17,97.0,United States,30.0
+646,Namogoo,Tel Aviv,Marketing,0.15,69.0,United States,20.0
+651,Google,SF Bay Area,Consumer,0.06,26.0,United States,12000.0
+652,Wayfair,Boston,Retail,0.1,1700.0,United States,1750.0
+653,Swiggy,Bengaluru,Food,0.06,3600.0,India,380.0
+654,MediBuddy,Bengaluru,Healthcare,0.08,192.0,India,200.0
+655,Vox Media,Washington D.C.,Media,0.07,307.0,United States,130.0
+658,Enjoei,Sao Paulo,Retail,0.1,14.0,Brazil,31.0
+660,Citrine Informatics,SF Bay Area,Data,0.27,64.0,United States,22.0
+669,Hubilo,SF Bay Area,Other,0.35,153.0,United States,115.0
+670,Saks.com,New York City,Retail,0.05,965.0,United States,100.0
+671,CS Disco,Austin,Legal,0.09,233.0,United States,62.0
+684,Microsoft,Seattle,Other,0.05,1.0,United States,10000.0
+685,Sophos,Oxford,Security,0.1,125.0,United States,450.0
+686,Teladoc Health,New York City,Healthcare,0.06,172.0,United States,300.0
+687,Vroom,New York City,Transportation,0.2,1300.0,United States,275.0
+688,8x8,SF Bay Area,Support,0.07,253.0,United States,155.0
+689,Pagaya,New York City,Finance,0.2,571.0,United States,140.0
+690,Benevity,Calgary,Other,0.14,69.0,Canada,137.0
+691,Inspirato,Denver,Travel,0.12,179.0,United States,109.0
+692,Jumpcloud,Boulder,Security,0.12,416.0,United States,100.0
+693,nCino,Wilmington,Finance,0.07,1100.0,United States,100.0
+694,Starry,Boston,Other,0.24,260.0,United States,100.0
+695,Hootsuite,Vancouver,Marketing,0.07,300.0,Canada,70.0
+696,Clue,Berlin,Healthcare,0.31,47.0,Germany,31.0
+697,Addepar,SF Bay Area,Finance,0.03,491.0,United States,20.0
+708,Lightspeed Commerce,Montreal,Retail,0.1,1200.0,Canada,300.0
+709,Unity,SF Bay Area,Other,0.03,1300.0,United States,284.0
+710,Britishvolt,London,Transportation,1.0,2400.0,United Kingdom,206.0
+712,Exotel,Bengaluru,Support,0.15,87.0,India,142.0
+713,Unico,Sao Paulo,Other,0.1,336.0,Brazil,110.0
+715,American Robotics,Boston,Other,0.65,92.0,United States,50.0
+726,ShareChat,Bengaluru,Consumer,0.2,1700.0,India,500.0
+728,ClearCo,Toronto,Finance,0.3,698.0,Canada,50.0
+733,Snappy,New York City,Marketing,0.3,104.0,United States,100.0
+734,BharatAgri,Mumbai,Food,0.43,21.0,India,40.0
+745,Lending Club,SF Bay Area,Finance,0.14,392.0,United States,225.0
+746,SmartNews,Tokyo,Media,0.4,410.0,United States,120.0
+748,Pier,Sao Paulo,Finance,0.39,42.0,Brazil,111.0
+749,Blockchain.com,London,Crypto,0.28,490.0,United Kingdom,110.0
+750,Greenlight,Atlanta,Finance,0.21,556.0,United States,104.0
+760,Flexport,SF Bay Area,Logistics,0.2,2400.0,United States,640.0
+761,Qualtrics,Salt Lake City,Other,0.05,400.0,United States,270.0
+762,Verily,SF Bay Area,Healthcare,0.15,3500.0,United States,250.0
+763,Tipalti,SF Bay Area,Finance,0.11,565.0,United States,123.0
+764,Jumio,SF Bay Area,Security,0.06,205.0,United States,100.0
+774,Coinbase,SF Bay Area,Crypto,0.2,549.0,United States,950.0
+776,Blend,SF Bay Area,Finance,0.28,665.0,United States,340.0
+778,ConsenSys,New York City,Crypto,0.11,726.0,United States,100.0
+779,ForeScout,SF Bay Area,Security,0.1,125.0,United States,100.0
+780,Thinkific,Vancouver,Education,0.19,22.0,Canada,76.0
+782,Parler,Nashville,Consumer,0.75,36.0,United States,60.0
+783,GoBolt,Toronto,Logistics,0.05,178.0,Canada,55.0
+785,StreamElements,Tel Aviv,Media,0.2,111.0,Israel,40.0
+792,Fate Therapeutics,San Diego,Healthcare,0.5700000000000001,1200.0,United States,315.0
+796,Minute Media,London,Media,0.1,160.0,United Kingdom,50.0
+797,WalkMe,SF Bay Area,Other,0.03,307.0,United States,43.0
+799,Huobi,Beijing,Crypto,0.2,2.0,China,275.0
+801,Bounce,Bengaluru,Transportation,0.05,214.0,India,40.0
+809,SoundHound,SF Bay Area,Other,0.5,326.0,United States,200.0
+810,Socure,Reno,Finance,0.19,646.0,United States,104.0
+812,Moglix,Singapore,Retail,0.02,472.0,Singapore,40.0
+814,Everlane,SF Bay Area,Retail,0.17,176.0,United States,30.0
+815,Pecan AI,Tel Aviv,Data,0.25,116.0,Israel,30.0
+816,Personetics,New York City,Support,0.08,178.0,United States,30.0
+817,Twine Solutions ,Tel Aviv,Hardware,0.33,50.0,Israel,30.0
+818,UpScalio,Gurugram,Retail,0.15,62.0,India,25.0
+824,Amazon,Seattle,Retail,0.02,108.0,United States,8000.0
+825,Salesforce,SF Bay Area,Sales,0.1,65.0,United States,8000.0
+826,Astronomer,Cincinnati,Data,0.2,282.0,United States,76.0
+827,Kaltura,New York City,Media,0.11,166.0,United States,75.0
+828,Augury,New York City,Manufacturing,0.05,274.0,United States,20.0
+833,Uniphore,SF Bay Area,Support,0.1,620.0,United States,76.0
+837,Micron,Boise,Hardware,0.1,50.0,United States,4800.0
+845,Back Market,Paris,Retail,0.13,1000.0,France,93.0
+848,TuSimple,San Diego,Transportation,0.25,648.0,United States,350.0
+850,Chope,Singapore,Food,0.24,50.0,Singapore,65.0
+851,Briza,Toronto,Finance,0.4,10.0,Canada,26.0
+854,Homebot,Denver,Real Estate,0.13,4.0,United States,18.0
+858,Tomorrow,Hamburg,Finance,0.25,29.0,Germany,30.0
+859,Revelate,Montreal,Data,0.3,26.0,Canada,24.0
+867,BigCommerce,Austin,Retail,0.13,224.0,United States,180.0
+868,Freshworks,SF Bay Area,Support,0.02,484.0,United States,90.0
+869,LeafLink,New York City,Other,0.31,379.0,United States,80.0
+870,Workmotion,Berlin,HR,0.2,76.0,United States,60.0
+872,JD.ID,Jakarta,Retail,0.3,5100.0,Indonesia,200.0
+875,Headspace,Los Angeles,Healthcare,0.04,215.0,United States,50.0
+876,ChowNow,Los Angeles,Food,0.1,64.0,United States,40.0
+878,Thumbtack,SF Bay Area,Consumer,0.14,698.0,United States,160.0
+879,Edgio,Phoenix,Infrastructure,0.1,462.0,United States,95.0
+880,Komodo Health,SF Bay Area,Healthcare,0.09,514.0,United States,78.0
+883,Pluralsight,Salt Lake City,Education,0.2,192.0,United States,400.0
+887,Outschool,SF Bay Area,Education,0.25,240.0,United States,43.0
+888,Xentral,Munich,Product,0.1,94.0,Germany,20.0
+894,Alice,Sao Paulo,Healthcare,0.16,174.0,Brazil,113.0
+895,Primer,London,Finance,0.33,73.0,United Kingdom,85.0
+896,OneFootball,Berlin,Marketing,0.115,442.0,Germany,62.0
+897,C2FO,Kansas City,Finance,0.02,537.0,United States,20.0
+902,Airtable,SF Bay Area,Product,0.2,1400.0,United States,254.0
+903,Swiggy,Bengaluru,Food,0.03,3600.0,India,250.0
+904,Glints,Singapore,HR,0.18,82.0,Singapore,198.0
+905,Buser,Sao Paulo,Transportation,0.3,138.0,Brazil,160.0
+906,BlackLine,Los Angeles,Finance,0.05,220.0,United States,95.0
+908,Otonomo,Tel Aviv,Transportation,0.5,231.0,Israel,80.0
+909,TechTarget,Boston,Marketing,0.05,115.0,United States,60.0
+911,CyCognito,SF Bay Area,Security,0.15,153.0,United States,30.0
+912,Armis,SF Bay Area,Security,0.04,537.0,United States,25.0
+920,Loft,Sao Paulo,Real Estate,0.12,788.0,Brazil,312.0
+921,Plaid,SF Bay Area,Finance,0.2,734.0,United States,260.0
+922,Motive,SF Bay Area,Transportation,0.06,567.0,United States,237.0
+924,Relativity,Chicago,Legal,0.1,125.0,United States,150.0
+925,Voi,Stockholm,Transportation,0.13,515.0,United States,130.0
+926,Integral Ad Science,New York City,Marketing,0.13,116.0,United States,120.0
+927,Houzz,SF Bay Area,Consumer,0.08,613.0,United States,95.0
+928,Grover,Berlin,Retail,0.1,2300.0,United States,40.0
+929,Lev,New York City,Real Estate,0.3,114.0,United States,30.0
+930,Lithic,New York City,Finance,0.18,115.0,United States,27.0
+934,Doma,SF Bay Area,Finance,0.4,679.0,United States,515.0
+936,BuzzFeed,New York City,Media,0.12,696.0,United States,180.0
+939,Chipper Cash,SF Bay Area,Finance,0.125,302.0,United States,50.0
+940,Stash,New York City,Finance,0.08,480.0,United States,32.0
+941,Perimeter 81,Tel Aviv,Security,0.08,165.0,Israel,20.0
+943,Bridgit,Waterloo,Construction,0.13,36.0,Canada,13.0
+950,Aqua Security,Boston,Security,0.1,265.0,United States,65.0
+951,DataRails,Tel Aviv,Finance,0.18,103.0,Israel,30.0
+960,Polly,Burlington,Finance,0.15,184.0,United States,47.0
+963,Carousell,Singapore,Retail,0.1,372.0,Singapore,110.0
+964,Bizzabo,New York City,Marketing,0.37,194.0,United States,100.0
+966,Netlify,SF Bay Area,Product,0.16,212.0,United States,48.0
+967,Springbig,Miami,Sales,0.23,32.0,United States,37.0
+973,DoorDash,SF Bay Area,Food,0.06,2500.0,United States,1250.0
+974,Kraken,SF Bay Area,Crypto,0.3,134.0,United States,1100.0
+975,Happy Money,Los Angeles,Finance,0.34,191.0,United States,158.0
+976,Ula,Jakarta,Retail,0.23,140.0,Indonesia,134.0
+977,Wonder,New York City,Food,0.07,850.0,United States,130.0
+979,Grin,Sacramento,Marketing,0.13,145.0,United States,60.0
+980,Ualá,Buenos Aires,Finance,0.03,544.0,Argentina,53.0
+981,Teachmint,Bengaluru,Education,0.05,118.0,India,45.0
+983,Thread,London,Retail,0.5,40.0,United Kingdom,30.0
+990,Lyst,London,Retail,0.25,144.0,United Kingdom,50.0
+991,CoinJar,Melbourne,Crypto,0.2,1.0,Australia,10.0
+999,Infarm,Berlin,Other,0.5,604.0,Germany,500.0
+1000,Wildlife Studios,Sao Paulo,Consumer,0.2,260.0,Brazil,300.0
+1002,ApplyBoard,Waterloo,Education,0.06,483.0,Canada,90.0
+1003,Ajaib,Jakarta,Finance,0.08,245.0,Indonesia,67.0
+1004,Candy Digital,New York City,Crypto,0.33,100.0,United States,33.0
+1005,ResearchGate,Berlin,Other,0.1,87.0,Germany,25.0
+1013,VerSe Innovation,Bengaluru,Media,0.05,1700.0,India,150.0
+1014,Carwow,London,Transportation,0.2,157.0,United Kingdom,70.0
+1015,Vendease,Lagos,Food,0.09,43.0,Nigeria,27.0
+1016,Lemon,Buenos Aires,Crypto,0.38,17.0,Argentina,100.0
+1017,Quidax,Lagos,Crypto,0.2,3.0,Nigeria,20.0
+1025,SIRCLO,Jakarta,Retail,0.08,92.0,Indonesia,160.0
+1027,Trax,Singapore,Retail,0.08,1000.0,Singapore,80.0
+1031,Jumia,Lagos,Retail,0.2,1200.0,Nigeria,900.0
+1032,Kitopi,Dubai,Food,0.1,804.0,United States,93.0
+1035,Zomato,Gurugram,Food,0.04,914.0,India,100.0
+1036,Carvana,Phoenix,Transportation,0.08,1600.0,United States,1500.0
+1037,Nuro,SF Bay Area,Transportation,0.2,2100.0,United States,300.0
+1038,Synthego,SF Bay Area,Healthcare,0.2,459.0,United States,105.0
+1046,Roku,SF Bay Area,Media,0.07,208.0,United States,200.0
+1049,Juni,Gothenburg,Finance,0.33,281.0,Sweden,72.0
+1051,Capitolis,New York City,Finance,0.25,281.0,United States,37.0
+1052,TealBook,Toronto,Other,0.19,73.0,Canada,34.0
+1053,Koho,Toronto,Finance,0.04,278.0,Canada,15.0
+1054,&Open,Dublin,Marketing,0.09,35.0,Ireland,9.0
+1058,Amazon,Seattle,Retail,0.03,108.0,United States,10000.0
+1059,Cisco,SF Bay Area,Infrastructure,0.05,2.0,United States,4100.0
+1060,Twiga,Nairobi,Food,0.21,157.0,Kenya,211.0
+1061,Wayflyer,Dublin,Marketing,0.4,889.0,Ireland,200.0
+1062,Similarweb,New York City,Other,0.1,235.0,United States,120.0
+1063,Salsify,Boston,Retail,0.11,452.0,United States,90.0
+1064,Lokalise,Dover,Other,0.23,56.0,United States,76.0
+1065,Yotpo,New York City,Marketing,0.09,436.0,United States,70.0
+1066,Pear Therapeutics,Boston,Healthcare,0.22,409.0,United States,59.0
+1073,UiPath,New York City,Data,0.06,2000.0,United States,241.0
+1074,Asana,SF Bay Area,Other,0.09,453.0,United States,180.0
+1075,OwnBackup,New York City,Security,0.17,507.0,United States,170.0
+1076,Deliveroo Australia,Melbourne,Food,1.0,1700.0,Australia,120.0
+1080,Jimdo,Hamburg,Other,0.16,28.0,Germany,50.0
+1083,CaptivateIQ,SF Bay Area,Sales,0.1,164.0,United States,31.0
+1093,Illumina,San Diego,Healthcare,0.05,28.0,United States,500.0
+1095,iFit,Logan,Fitness,0.2,200.0,United States,300.0
+1096,Ribbon,New York City,Real Estate,0.85,405.0,United States,170.0
+1097,Pipedrive,Tallinn,Sales,0.15,90.0,Estonia,143.0
+1098,Intercom,SF Bay Area,Support,0.13,240.0,United States,124.0
+1100,Pear Therapeutics,Boston,Healthcare,0.22,409.0,United States,59.0
+1102,Cloudinary,SF Bay Area,Media,0.08,100.0,United States,40.0
+1107,Veev,SF Bay Area,Real Estate,0.3,597.0,United States,100.0
+1108,Forto,Berlin,Logistics,0.08,593.0,United States,60.0
+1112,GoTo Group,Jakarta,Transportation,0.12,1300.0,Indonesia,1300.0
+1113,Juul,SF Bay Area,Consumer,0.3,1500.0,United States,400.0
+1114,Blend,SF Bay Area,Finance,0.06,665.0,United States,100.0
+1115,InfluxData,SF Bay Area,Data,0.27,119.0,United States,65.0
+1117,SoundHound,SF Bay Area,Other,0.1,326.0,United States,45.0
+1119,Ocavu,Lehi,Crypto,0.48,11.0,United States,20.0
+1126,Meta,SF Bay Area,Consumer,0.13,26000.0,United States,11000.0
+1127,Redfin,Seattle,Real Estate,0.13,320.0,United States,862.0
+1128,Flyhomes,Seattle,Real Estate,0.4,310.0,United States,300.0
+1129,AvantStay,Los Angeles,Travel,0.22,686.0,United States,144.0
+1130,Root Insurance,Columbus,Finance,0.2,527.0,United States,137.0
+1131,Liftoff,SF Bay Area,Marketing,0.15,6.0,United States,130.0
+1133,Plum,Bengaluru,Healthcare,0.1,20.0,India,36.0
+1134,Kabam,SF Bay Area,Consumer,0.07,244.0,United States,35.0
+1136,Namogoo,Tel Aviv,Marketing,0.15,69.0,United States,25.0
+1144,Repertoire Immune Medicines,Boston,Healthcare,0.5,257.0,United States,65.0
+1149,Salesforce,SF Bay Area,Sales,0.01,65.0,United States,1000.0
+1150,Unacademy,Bengaluru,Education,0.1,838.0,India,350.0
+1151,Zendesk,SF Bay Area,Support,0.05,85.0,United States,350.0
+1152,Dock,Sao Paulo,Finance,0.12,280.0,Brazil,190.0
+1155,Varonis,New York City,Security,0.05,30.0,United States,110.0
+1158,Twitter,SF Bay Area,Consumer,0.5,12900.0,United States,3700.0
+1160,Planetly,Berlin,Other,1.0,5.0,Germany,200.0
+1161,KoinWorks,Jakarta,Finance,0.08,180.0,Indonesia,70.0
+1162,Exodus,Nebraska City,Crypto,0.22,60.0,United States,59.0
+1165,Stripe,SF Bay Area,Finance,0.14,2300.0,United States,1000.0
+1166,Lyft,SF Bay Area,Transportation,0.13,4900.0,United States,700.0
+1168,Pleo,Copenhagen,Finance,0.15,428.0,United States,150.0
+1170,Shippo,SF Bay Area,Logistics,0.2,154.0,United States,60.0
+1178,Opendoor,SF Bay Area,Real Estate,0.18,1900.0,United States,550.0
+1179,Chime,SF Bay Area,Finance,0.12,2300.0,United States,156.0
+1180,Chargebee,SF Bay Area,Finance,0.1,468.0,United States,142.0
+1181,Dapper Labs,Vancouver,Crypto,0.22,607.0,United States,134.0
+1182,Checkmarx,Tel Aviv,Security,0.1,92.0,Israel,100.0
+1183,Smava,Berlin,Finance,0.15,188.0,Germany,100.0
+1184,Iron Ox,SF Bay Area,Food,0.5,103.0,United States,50.0
+1191,Upstart,SF Bay Area,Finance,0.07,144.0,United States,140.0
+1192,Gem,SF Bay Area,Recruiting,0.33,148.0,United States,100.0
+1193,Oda,Oslo,Food,0.18,377.0,Sweden,70.0
+1194,Oda,Oslo,Food,0.18,477.0,Norway,70.0
+1195,Oda,Oslo,Food,0.06,479.0,Norway,70.0
+1196,Hootsuite,Vancouver,Marketing,0.05,300.0,Canada,50.0
+1201,Kry,Stockholm,Healthcare,0.1,568.0,Sweden,300.0
+1203,EquityZen,New York City,Finance,0.27,11.0,United States,30.0
+1204,Equitybee,SF Bay Area,Finance,0.2,85.0,United States,25.0
+1208,Fifth Season,Pittsburgh,Food,1.0,35.0,United States,100.0
+1211,RenoRun,Montreal,Construction,0.43,163.0,Canada,210.0
+1212,Recharge,Los Angeles,Finance,0.17,277.0,United States,84.0
+1217,MindBody,San Luis Obispo,Fitness,0.15,114.0,United States,400.0
+1218,Zillow,Seattle,Real Estate,0.05,97.0,United States,300.0
+1219,Cybereason,Boston,Security,0.17,750.0,United States,200.0
+1223,Fundbox,SF Bay Area,Finance,0.42,553.0,United States,150.0
+1224,Embroker,SF Bay Area,Finance,0.12,142.0,United States,30.0
+1225,Vee,Tel Aviv,HR,0.5,15.0,Israel,17.0
+1229,Cerebral,SF Bay Area,Healthcare,0.2,462.0,United States,400.0
+1230,Snyk,Boston,Security,0.14,849.0,United States,198.0
+1232,Unico,Sao Paulo,Other,0.04,336.0,Brazil,50.0
+1233,OrCam,Jerusalem,Healthcare,0.16,86.0,Israel,62.0
+1234,Antidote Health,Tel Aviv,Healthcare,0.38,36.0,Israel,23.0
+1235,Khoros,Austin,Sales,0.1,138.0,United States,120.0
+1237,Elinvar,Berlin,Finance,0.33,30.0,Germany,43.0
+1238,Synapsica,New Delhi,Healthcare,0.3,4.0,India,30.0
+1240,Hotmart,Belo Horizonte,Marketing,0.12,127.0,Brazil,227.0
+1241,Zeus Living,SF Bay Area,Real Estate,0.46,151.0,United States,64.0
+1242,Loom,SF Bay Area,Product,0.11,203.0,United States,23.0
+1248,AtoB,SF Bay Area,Finance,0.3,177.0,United States,32.0
+1249,InfoSum,London,Security,0.12,88.0,United Kingdom,20.0
+1253,Faire,SF Bay Area,Retail,0.07,1700.0,United States,84.0
+1254,Leafly,Seattle,Retail,0.21,71.0,United States,56.0
+1259,Flipboard,SF Bay Area,Media,0.21,235.0,United States,24.0
+1262,Beyond Meat,Los Angeles,Food,0.19,122.0,United States,200.0
+1266,Playdots,New York City,Consumer,1.0,10.0,United States,65.0
+1268,Byju's,Bengaluru,Education,0.05,5500.0,India,2500.0
+1269,6sense,SF Bay Area,Sales,0.1,426.0,United States,150.0
+1271,FrontRow,Bengaluru,Education,0.75,17.0,India,130.0
+1272,Noom,New York City,Healthcare,0.1,657.0,United States,500.0
+1274,Brex,SF Bay Area,Finance,0.11,1500.0,United States,136.0
+1275,Pacaso,SF Bay Area,Real Estate,0.3,217.0,United States,100.0
+1277,Udacity,SF Bay Area,Education,0.13,235.0,United States,55.0
+1278,Linkfire,Copenhagen,Marketing,0.35,2.0,Denmark,35.0
+1283,Momentive,SF Bay Area,Marketing,0.11,1100.0,United States,180.0
+1284,Pavilion Data,SF Bay Area,Infrastructure,0.96,103.0,United States,96.0
+1285,Redesign Health,New York City,Healthcare,0.2,315.0,United States,67.0
+1288,BioMarin,SF Bay Area,Healthcare,0.04,585.0,United States,120.0
+1290,Crypto.com,Singapore,Crypto,0.3,156.0,Singapore,2000.0
+1291,Peloton,New York City,Fitness,0.12,1900.0,United States,500.0
+1294,Impossible Foods,SF Bay Area,Food,0.06,1900.0,United States,50.0
+1299,Built In,Chicago,Recruiting,0.25,29.0,United States,50.0
+1301,8x8,SF Bay Area,Support,0.09,253.0,United States,200.0
+1302,Zoomo,Sydney,Transportation,0.16,105.0,Australia,65.0
+1303,Homie,Salt Lake City,Real Estate,0.13,35.0,United States,40.0
+1309,Spin,SF Bay Area,Transportation,0.1,8.0,United States,78.0
+1314,Mux,SF Bay Area,Infrastructure,0.2,173.0,United States,40.0
+1317,DocuSign,SF Bay Area,Sales,0.09,536.0,United States,671.0
+1320,Divvy Homes,SF Bay Area,Real Estate,0.12,180.0,United States,40.0
+1324,Moss,Berlin,Finance,0.15,150.0,Germany,70.0
+1325,Foxtrot,Chicago,Food,0.035,166.0,United States,26.0
+1326,Truiloo,Vancouver,Security,0.05,474.0,Canada,24.0
+1328,NYDIG,New York City,Crypto,0.33,1400.0,United States,110.0
+1331,Kitty Hawk,SF Bay Area,Aerospace,1.0,1.0,United States,100.0
+1335,Ada,Toronto,Support,0.16,190.0,Canada,78.0
+1336,99,Sao Paulo,Transportation,0.02,244.0,Brazil,75.0
+1340,Vesalius Therapeutics,Boston,Healthcare,0.43,75.0,United States,29.0
+1343,Clear,Bengaluru,Finance,0.2,140.0,India,190.0
+1344,TrueLayer,London,Finance,0.1,271.0,United States,40.0
+1345,LivePerson,New York City,Support,0.11,42.0,United States,193.0
+1346,Acast,Stockholm,Media,0.15,126.0,Sweden,70.0
+1347,WorkRamp,SF Bay Area,HR,0.2,67.0,United States,35.0
+1350,Twilio,SF Bay Area,Other,0.11,614.0,United States,800.0
+1351,Pitch,Berlin,Marketing,0.3,137.0,Germany,59.0
+1352,Infarm,Berlin,Other,0.05,604.0,Germany,50.0
+1355,Rubius,Boston,Healthcare,0.75,445.0,United States,160.0
+1356,Checkout.com,London,Finance,0.05,1800.0,United Kingdom,100.0
+1357,Taboola,New York City,Marketing,0.06,445.0,United States,100.0
+1358,Patreon,SF Bay Area,Media,0.17,413.0,United States,80.0
+1363,Compete,Tel Aviv,HR,0.28,17.0,Israel,11.0
+1377,Pomelo Fashion,Bangkok,Retail,0.08,120.0,Thailand,55.0
+1381,Simple Feast,Copenhagen,Food,1.0,173.0,Denmark,150.0
+1385,Intercom,SF Bay Area,Support,0.05,240.0,United States,49.0
+1386,Pendo,Raleigh,Product,0.05,469.0,United States,45.0
+1387,Demandbase,SF Bay Area,Sales,0.03,143.0,United States,27.0
+1391,Brave Care,Portland,Healthcare,0.33,42.0,United States,40.0
+1392,Lawgeex,Tel Aviv,Legal,0.33,41.0,Israel,30.0
+1395,Kuda,Lagos,Finance,0.05,91.0,Nigeria,23.0
+1398,2TM,Sao Paulo,Crypto,0.15,250.0,Brazil,100.0
+1399,Innovaccer,SF Bay Area,Healthcare,0.08,379.0,United States,90.0
+1401,Urban Sports Club,Berlin,Fitness,0.15,95.0,Germany,55.0
+1403,Snap,Los Angeles,Consumer,0.2,4900.0,United States,1280.0
+1404,GoodRx,Los Angeles,Healthcare,0.16,910.0,United States,140.0
+1405,Smava,Berlin,Finance,0.1,188.0,Germany,100.0
+1406,Hippo Insurance,SF Bay Area,Finance,0.1,1300.0,United States,70.0
+1409,TCR2,Boston,Healthcare,0.2,173.0,United States,30.0
+1410,Apartment List,SF Bay Area,Real Estate,0.1,169.0,United States,29.0
+1416,Immersive Labs,Bristol,Security,0.1,123.0,United Kingdom,38.0
+1419,54gene,Washington D.C.,Healthcare,0.3,44.0,United States,95.0
+1425,Argyle,New York City,Finance,0.07,78.0,United States,20.0
+1431,Reali,SF Bay Area,Real Estate,1.0,117.0,United States,140.0
+1432,Loop,Washington D.C.,Finance,0.2,24.0,United States,15.0
+1434,Tier Mobility,Berlin,Transportation,0.16,646.0,Germany,180.0
+1435,Packable,New York City,Retail,0.2,472.0,United States,138.0
+1436,Q4,Toronto,Other,0.08,91.0,Canada,50.0
+1437,Skedulo,SF Bay Area,HR,0.08,114.0,United States,31.0
+1438,Plato,SF Bay Area,HR,0.5,3.0,United States,29.0
+1444,NSO,Tel Aviv,Security,0.14,1.0,Israel,100.0
+1445,Tufin,Boston,Security,0.1,21.0,United States,55.0
+1446,Amperity,Seattle,Marketing,0.03,187.0,United States,13.0
+1447,Wayfair,Boston,Retail,0.05,1700.0,United States,870.0
+1450,New Relic,SF Bay Area,Infrastructure,0.05,214.0,United States,110.0
+1451,Wheel,Austin,Healthcare,0.17,215.0,United States,35.0
+1455,Malwarebytes,SF Bay Area,Security,0.14,80.0,United States,125.0
+1461,AlayaCare,Montreal,Healthcare,0.14,293.0,Canada,80.0
+1462,Pliops,Tel Aviv,Data,0.09,205.0,Israel,12.0
+1463,Woven,Indianapolis,HR,0.15,11.0,United States,5.0
+1468,Sema4,Stamford,Healthcare,0.13,791.0,United States,250.0
+1469,Blend,SF Bay Area,Finance,0.12,665.0,United States,220.0
+1470,ContraFect,New York City,Healthcare,0.37,380.0,United States,16.0
+1474,Peloton,New York City,Fitness,0.13,1900.0,United States,784.0
+1477,Truepill,SF Bay Area,Healthcare,0.33,255.0,United States,175.0
+1478,Calm,SF Bay Area,Healthcare,0.2,218.0,United States,90.0
+1479,FourKites,Chicago,Logistics,0.08,201.0,United States,60.0
+1480,Marketforce,Nairobi,Retail,0.09,42.0,Kenya,54.0
+1484,Trybe,Sao Paulo,Education,0.1,40.0,Brazil,47.0
+1485,Permutive,London,Marketing,0.12,105.0,United Kingdom,30.0
+1489,GoHealth,Chicago,Healthcare,0.2,75.0,United States,800.0
+1490,Hootsuite,Vancouver,Marketing,0.3,300.0,Canada,400.0
+1491,Nutanix,SF Bay Area,Infrastructure,0.04,1100.0,United States,270.0
+1492,Quanterix,Boston,Healthcare,0.25,533.0,United States,130.0
+1494,MadeiraMadeira,Curitiba,Retail,0.03,338.0,Brazil,60.0
+1496,Linktree,Melbourne,Consumer,0.17,165.0,Australia,50.0
+1497,Shogun,SF Bay Area,Retail,0.3,114.0,United States,48.0
+1506,Groupon,Chicago,Retail,0.15,1400.0,United States,500.0
+1507,Loggi,Sao Paulo,Logistics,0.15,507.0,Brazil,500.0
+1511,Perion,Tel Aviv,Marketing,0.05,76.0,Israel,20.0
+1514,iRobot,Boston,Consumer,0.1,30.0,United States,140.0
+1515,Mejuri,Toronto,Retail,0.1,28.0,Canada,50.0
+1516,Uberflip,Toronto,Marketing,0.17,42.0,Canada,31.0
+1519,Doma,SF Bay Area,Finance,0.13,679.0,United States,250.0
+1521,Jam City,Los Angeles,Consumer,0.17,652.0,United States,200.0
+1522,10X Genomics,SF Bay Area,Healthcare,0.08,242.0,United States,100.0
+1523,LEAD,Mumbai,Education,0.04,166.0,India,80.0
+1525,On Deck,SF Bay Area,Education,0.33,20.0,United States,73.0
+1526,RenoRun,Montreal,Construction,0.12,163.0,Canada,70.0
+1534,Unbounce,Vancouver,Marketing,0.2,39.0,Canada,47.0
+1541,Robinhood,SF Bay Area,Finance,0.23,5600.0,United States,713.0
+1542,Latch,New York City,Security,0.37,342.0,United States,115.0
+1545,Nylas,SF Bay Area,Product,0.25,175.0,United States,80.0
+1546,Outreach,Seattle,Sales,0.05,489.0,United States,60.0
+1547,Sendy,Nairobi,Logistics,0.2,26.0,Kenya,54.0
+1549,Sendy,Nairobi,Logistics,0.1,26.0,Kenya,30.0
+1550,Stedi,Boulder,Product,0.3,75.0,United States,23.0
+1551,Glossier,New York City,Retail,0.08,266.0,United States,19.0
+1554,Hash,Sao Paulo,Finance,0.5,58.0,Brazil,58.0
+1561,Metigy,Sydney,Marketing,1.0,18.0,Australia,75.0
+1562,Vee,Tel Aviv,HR,0.32,15.0,Israel,16.0
+1565,Clearco,Toronto,Finance,0.25,681.0,Canada,125.0
+1568,Quantcast,SF Bay Area,Marketing,0.06,65.0,United States,40.0
+1574,Career Karma,SF Bay Area,Education,0.33,51.0,United States,60.0
+1575,Metromile,SF Bay Area,Finance,0.2,510.0,United States,60.0
+1585,Rivian,Detroit,Transportation,0.06,10700.0,United States,840.0
+1586,Vox Media,Washington D.C.,Media,0.02,307.0,United States,39.0
+1587,Coinsquare,Toronto,Crypto,0.24,98.0,Canada,30.0
+1588,Skai,Tel Aviv,Marketing,0.04,60.0,Israel,30.0
+1589,Shopify,Ottawa,Retail,0.1,122.0,Canada,1000.0
+1591,Fiverr,Tel Aviv,Other,0.08,111.0,Israel,60.0
+1592,InDebted,Sydney,Finance,0.17,41.0,Australia,40.0
+1593,Outbrain,New York City,Marketing,0.03,394.0,United States,38.0
+1594,Dover,SF Bay Area,Recruiting,0.3,22.0,United States,23.0
+1595,Immutable,Sydney,Crypto,0.06,279.0,Australia,20.0
+1597,Pear Therapeutics ,Boston,Healthcare,0.09,409.0,United States,25.0
+1599,Soluto,Tel Aviv,Support,1.0,18.0,Israel,120.0
+1600,Eucalyptus,Sydney,Healthcare,0.2,69.0,United States,50.0
+1602,Quanto,Sao Paulo,Finance,0.22,15.0,Brazil,28.0
+1603,Clarify Health,SF Bay Area,Healthcare,0.05,328.0,United States,15.0
+1609,Blockchain.com,London,Crypto,0.25,490.0,United Kingdom,150.0
+1612,WHOOP,Boston,Fitness,0.15,404.0,United States,95.0
+1613,Rad Power Bikes,Seattle,Transportation,0.1,329.0,United States,63.0
+1614,Lunchbox,New York City,Food,0.33,72.0,United States,60.0
+1615,RealSelf,Seattle,Healthcare,0.05,42.0,United States,11.0
+1622,Flyhomes,Seattle,Real Estate,0.2,310.0,United States,200.0
+1625,Lyft,SF Bay Area,Transportation,0.02,4900.0,United States,60.0
+1626,Introhive,Ferdericton,Sales,0.16,125.0,Canada,57.0
+1627,Zencity,Tel Aviv,Other,0.2,51.0,Israel,30.0
+1629,Forma.ai,Toronto,Sales,0.09,58.0,Canada,15.0
+1632,Olive,Columbus,Healthcare,0.31,856.0,United States,450.0
+1638,Gemini,New York City,Crypto,0.07,423.0,United States,68.0
+1639,Lusha,New York City,Marketing,0.1,245.0,United States,30.0
+1645,Bright Money,Bengaluru,Finance,0.5,31.0,India,100.0
+1646,Project44,Chicago,Logistics,0.05,817.0,United States,63.0
+1647,Heroes,London,Retail,0.2,265.0,United States,24.0
+1650,Zego,London,Finance,0.17,202.0,United Kingdom,85.0
+1651,The Mom Project,Chicago,HR,0.15,115.0,United States,54.0
+1652,Unstoppable Domains,SF Bay Area,Crypto,0.25,7.0,United States,42.0
+1653,Kiavi,SF Bay Area,Real Estate,0.07,240.0,United States,39.0
+1657,Wave,Dakar,Finance,0.15,292.0,Senegal,300.0
+1658,Tonal,SF Bay Area,Fitness,0.35,450.0,United States,262.0
+1659,Fabric,New York City,Logistics,0.4,336.0,United States,120.0
+1660,Bryter,Berlin,Product,0.3,89.0,Germany,100.0
+1661,ChowNow,Los Angeles,Food,0.2,64.0,United States,100.0
+1662,Involves,Florianópolis,Retail,0.18,23.0,Brazil,70.0
+1668,Gopuff,Philadelphia,Food,0.1,3400.0,United States,1500.0
+1671,Hubilo,SF Bay Area,Marketing,0.12,153.0,United States,45.0
+1675,Hopin,London,Other,0.29,1000.0,United Kingdom,242.0
+1677,SundaySky,New York City,Marketing,0.13,74.0,United States,24.0
+1683,Butler Hospitality,New York City,Food,1.0,50.0,United States,1000.0
+1684,Calibrate,New York City,Healthcare,0.24,127.0,United States,156.0
+1686,Argo AI,Pittsburgh,Transportation,0.05,3600.0,United States,150.0
+1687,Next Insurance,SF Bay Area,Finance,0.17,881.0,United States,150.0
+1689,Emotive,Los Angeles,Marketing,0.18,78.0,United States,30.0
+1692,Remote,SF Bay Area,HR,0.09,496.0,United States,100.0
+1694,Anodot,Tel Aviv,Data,0.27,64.0,United States,35.0
+1695,SQream,New York City,Data,0.18,77.0,United States,30.0
+1696,Anodot,Tel Aviv,Data,0.2,64.0,United States,15.0
+1698,Loft,Sao Paulo,Real Estate,0.12,788.0,Brazil,384.0
+1699,Bizzabo,New York City,Marketing,0.3,194.0,United States,120.0
+1700,eToro,Tel Aviv,Finance,0.06,322.0,Israel,100.0
+1701,Verbit,New York City,Data,0.1,569.0,United States,80.0
+1702,Outschool,SF Bay Area,Education,0.18,240.0,United States,31.0
+1703,Bullish,Hong Kong,Crypto,0.08,300.0,Hong Kong,30.0
+1704,Transmit Security,Boston,Security,0.07,583.0,United States,27.0
+1705,Thimble,New York City,Finance,0.33,28.0,United States,20.0
+1706,Syte,Tel Aviv,Retail,0.08,71.0,Israel,13.0
+1707,Lightricks,Jerusalem,Consumer,0.12,335.0,Israel,80.0
+1709,Sendle,Sydney,Logistics,0.12,69.0,Australia,27.0
+1710,Lendis,Berlin,Other,0.15,90.0,Germany,18.0
+1713,Celsius,New York City,Crypto,0.25,864.0,United States,150.0
+1717,WanderJaunt,SF Bay Area,Travel,1.0,26.0,United States,85.0
+1718,Canoo,Los Angeles,Transportation,0.06,300.0,United States,58.0
+1720,Teleport,SF Bay Area,Infrastructure,0.06,169.0,United States,15.0
+1722,Enjoy,SF Bay Area,Retail,0.18,310.0,United States,400.0
+1723,Crejo.Fun,Bengaluru,Education,1.0,3.0,India,170.0
+1724,Stash Financial,New York City,Finance,0.08,480.0,United States,40.0
+1725,Nate,New York City,Retail,0.2,47.0,United States,30.0
+1727,Stream,Boulder,Product,0.12,58.0,United States,20.0
+1728,Finleap Connect,Hamburg,Finance,0.1,22.0,Germany,14.0
+1729,Abra,SF Bay Area,Crypto,0.05,106.0,United States,12.0
+1734,Unity,SF Bay Area,Other,0.04,1300.0,United States,200.0
+1735,Niantic,SF Bay Area,Consumer,0.08,770.0,United States,85.0
+1737,Qumulo,Seattle,Data,0.19,347.0,United States,80.0
+1738,Clutch,Toronto,Transportation,0.22,153.0,Canada,76.0
+1740,Oye Rickshaw,New Delhi,Transportation,0.2,13.0,India,40.0
+1741,Rows,Berlin,Other,0.3,25.0,Germany,18.0
+1742,Baton,SF Bay Area,Transportation,0.25,13.0,United States,16.0
+1743,Substack,SF Bay Area,Media,0.14,82.0,United States,13.0
+1749,Huobi,Beijing,Crypto,0.3,2.0,China,300.0
+1751,StockX,Detroit,Retail,0.08,690.0,United States,120.0
+1752,Sidecar Health,Los Angeles,Healthcare,0.4,163.0,United States,110.0
+1754,Vezeeta,Dubai,Healthcare,0.1,71.0,United Arab Emirates,50.0
+1755,Bright Machines,SF Bay Area,Data,0.08,250.0,Israel,30.0
+1756,HealthMatch,Sydney,Healthcare,0.5,20.0,Australia,18.0
+1760,AppLovin,SF Bay Area,Marketing,0.12,1600.0,United States,300.0
+1761,UiPath,New York City,Data,0.05,2000.0,United States,210.0
+1762,Udaan,Bengaluru,Retail,0.04,1500.0,India,180.0
+1764,Banxa,Melbourne,Crypto,0.3,13.0,Australia,70.0
+1765,SafeGraph,SF Bay Area,Data,0.25,61.0,United States,27.0
+1768,Bitpanda,Vienna,Crypto,0.27,546.0,Austria,270.0
+1769,Sunday,Atlanta,Finance,0.23,124.0,United States,90.0
+1770,Bestow,Dallas,Finance,0.14,137.0,United States,41.0
+1771,Ethos Life,SF Bay Area,Finance,0.12,406.0,United States,40.0
+1774,Netflix,SF Bay Area,Media,0.03,121900.0,United States,300.0
+1775,Aura,Boston,Security,0.09,500.0,United States,70.0
+1776,Pipl,Spokane,Security,0.13,19.0,United States,22.0
+1777,Vouch,SF Bay Area,Finance,0.07,159.0,United States,15.0
+1778,Voyage SMS,Los Angeles,Marketing,0.13,10.0,United States,8.0
+1785,MasterClass,SF Bay Area,Education,0.2,461.0,United States,120.0
+1786,IronNet,Washington D.C.,Security,0.35,410.0,United States,90.0
+1788,IronNet,Washington D.C.,Security,0.17,410.0,United States,55.0
+1790,Superpedestrian,Boston,Transportation,0.07,261.0,United States,35.0
+1791,Voi,Stockholm,Transportation,0.1,515.0,United States,35.0
+1793,Ritual,Toronto,Food,0.16,134.0,Canada,23.0
+1796,Ebanx,Curitiba,Finance,0.2,460.0,Brazil,340.0
+1797,TaskUs,Los Angeles,Support,0.0,279.0,United States,52.0
+1798,Community,Los Angeles,Marketing,0.3,40.0,United States,40.0
+1799,Sourcegraph,SF Bay Area,Product,0.08,248.0,United States,24.0
+1804,SummerBio,SF Bay Area,Healthcare,1.0,7.0,United States,101.0
+1805,Trax,Singapore,Retail,0.12,1000.0,Singapore,100.0
+1806,Aqgromalin,Chennai,Food,0.3,12.0,India,80.0
+1807,Bonsai,Toronto,Retail,0.55,27.0,Canada,30.0
+1808,Brighte,Sydney,Energy,0.15,145.0,Australia,30.0
+1811,CityMall,Gurugram,Retail,0.3,112.0,India,191.0
+1812,BitOasis,Dubai,Crypto,0.05,30.0,United Arab Emirates,9.0
+1813,Unacademy,Bengaluru,Education,0.03,838.0,India,150.0
+1815,Socure,Reno,Finance,0.13,646.0,United States,69.0
+1816,Finite State,Columbus,Security,0.2,49.0,United States,16.0
+1817,JOKR,New York City,Food,0.05,430.0,United States,50.0
+1818,Zumper,SF Bay Area,Real Estate,0.15,178.0,United States,45.0
+1821,Swappie,Helsinki,Retail,0.17,169.0,Finland,250.0
+1822,Wealthsimple,Toronto,Finance,0.13,900.0,Canada,159.0
+1823,Weee!,SF Bay Area,Food,0.1,863.0,United States,150.0
+1824,Notarize,Boston,Legal,0.25,213.0,United States,110.0
+1825,Elementor,Tel Aviv,Media,0.15,65.0,Israel,60.0
+1826,Tonkean,SF Bay Area,Other,0.23,83.0,United States,23.0
+1828,OpenWeb,Tel Aviv,Media,0.05,223.0,Israel,14.0
+1829,Swyft,Toronto,Logistics,0.3,20.0,Canada,10.0
+1832,Coinbase,SF Bay Area,Crypto,0.18,549.0,United States,1100.0
+1833,Redfin,Seattle,Real Estate,0.08,319.0,United States,470.0
+1834,Compass,New York City,Real Estate,0.1,1600.0,United States,450.0
+1835,Sami,Sao Paulo,Healthcare,0.15,36.0,Brazil,75.0
+1836,Breathe,New Delhi,Healthcare,0.33,6.0,India,50.0
+1838,TIFIN,Boulder,Crypto,0.1,204.0,United States,24.0
+1841,BlockFi,New York City,Crypto,0.2,1000.0,United States,250.0
+1842,Wave Sports and Entertainment,Los Angeles,Media,0.33,65.0,United States,56.0
+1843,Studio,SF Bay Area,Education,0.4,50.0,United States,33.0
+1846,Crypto.com,Singapore,Crypto,0.05,156.0,Singapore,260.0
+1847,FarEye,New Delhi,Logistics,0.3,150.0,India,250.0
+1848,Berlin Brands Group,Berlin,Retail,0.1,1000.0,Germany,100.0
+1849,Sanar,Sao Paulo,Healthcare,0.2,11.0,Brazil,60.0
+1850,Freetrade,London,Finance,0.15,133.0,United Kingdom,45.0
+1851,Albert,Los Angeles,Finance,0.08,175.0,United States,20.0
+1855,OneTrust,Atlanta,Security,0.25,926.0,United States,950.0
+1856,Stitch Fix,SF Bay Area,Retail,0.15,79.0,United States,330.0
+1858,Convoy,Seattle,Logistics,0.07,1100.0,United States,90.0
+1859,Hologram,Chicago,Infrastructure,0.4,82.0,United States,80.0
+1860,Boozt,Malmo,Retail,0.05,56.0,Sweden,70.0
+1861,The Grommet,Boston,Retail,1.0,5.0,United States,40.0
+1862,Stashaway,Singapore,Finance,0.14,61.0,Singapore,31.0
+1863,Preply,Boston,Education,0.05,100.0,United States,26.0
+1867,Sonder,SF Bay Area,Travel,0.21,839.0,United States,250.0
+1869,Truepill,SF Bay Area,Healthcare,0.15,255.0,United States,150.0
+1870,iPrice Group,Kuala Lumpur,Retail,0.2,26.0,Malaysia,50.0
+1872,Cazoo,London,Transportation,0.15,2000.0,United Kingdom,750.0
+1873,Cazoo,London,Transportation,0.15,2000.0,United Kingdom,750.0
+1874,Rupeek,Bengaluru,Finance,0.15,172.0,India,180.0
+1876,Bird,Los Angeles,Transportation,0.23,783.0,United States,138.0
+1883,Dutchie,Bend,Other,0.07,603.0,United States,50.0
+1889,Superhuman,SF Bay Area,Consumer,0.22,108.0,United States,23.0
+1890,Food52,New York City,Food,0.15,176.0,United States,21.0
+1894,Carbon Health,SF Bay Area,Healthcare,0.08,522.0,United States,250.0
+1896,PolicyGenius,New York City,Finance,0.25,286.0,United States,170.0
+1897,Yojak,Gurugram,Construction,0.5,3.0,India,140.0
+1899,Gemini,New York City,Crypto,0.1,423.0,United States,100.0
+1900,Stord,Atlanta,Logistics,0.08,325.0,United States,59.0
+1901,Gather,SF Bay Area,Consumer,0.33,76.0,United States,30.0
+1903,IRL,SF Bay Area,Consumer,0.25,197.0,United States,25.0
+1908,Cybereason,Boston,Security,0.06,750.0,United States,100.0
+1909,Udayy,Gurugram,Education,1.0,2.0,India,100.0
+1910,2TM,Sao Paulo,Crypto,0.12,250.0,Brazil,90.0
+1911,Curve,London,Finance,0.1,182.0,United Kingdom,65.0
+1912,Loom,SF Bay Area,Product,0.14,203.0,United States,34.0
+1914,Impala,London,Travel,0.35,32.0,United Kingdom,30.0
+1920,Tomo,Stamford,Finance,0.33,110.0,United States,44.0
+1922,BookClub,Salt Lake City,Education,0.25,26.0,United States,12.0
+1924,SWVL,Dubai,Transportation,0.32,132.0,United Arab Emirates,400.0
+1925,Mobile Premier League,Bengaluru,Consumer,0.1,375.0,India,100.0
+1926,SumUp,Sao Paulo,Finance,0.03,50.0,Brazil,100.0
+1928,FrontRow,Bengaluru,Education,0.3,17.0,India,145.0
+1930,Uncapped,London,Finance,0.26,118.0,United Kingdom,29.0
+1934,VTEX,Sao Paulo,Retail,0.13,365.0,Brazil,200.0
+1935,Bitso,Mexico City,Crypto,0.11,378.0,Mexico,80.0
+1938,Lacework,SF Bay Area,Security,0.2,1900.0,United States,300.0
+1939,Bolt,SF Bay Area,Finance,0.27,1300.0,United States,240.0
+1941,Kontist,Berlin,Finance,0.25,53.0,Germany,50.0
+1942,Nuri,Berlin,Finance,0.2,42.0,Germany,45.0
+1943,Coterie Insurance,Cincinnati,Finance,0.2,70.0,United States,30.0
+1947,Gorillas,Berlin,Food,0.5,1300.0,Germany,300.0
+1950,Klarna,Stockholm,Finance,0.1,3700.0,Sweden,700.0
+1952,Buenbit,Buenos Aires,Crypto,0.45,11.0,Argentina,80.0
+1953,BeyondMinds,Tel Aviv,Data,1.0,16.0,Israel,65.0
+1954,ClickUp,San Diego,Other,0.07,537.0,United States,60.0
+1955,Airtime,New York City,Consumer,0.2,33.0,United States,30.0
+1957,MFine,Bengaluru,Healthcare,0.75,97.0,India,600.0
+1958,Latch,New York City,Security,0.28,342.0,United States,130.0
+1959,Outside,Boulder,Media,0.15,174.0,United States,87.0
+1960,Skillz,SF Bay Area,Consumer,0.1,287.0,United States,70.0
+1961,Cars24,Gurugram,Transportation,0.06,1300.0,India,600.0
+1962,Vedantu,Bengaluru,Education,0.07,292.0,India,424.0
+1963,Netflix,SF Bay Area,Media,0.01,121900.0,United States,150.0
+1964,Kry,Stockholm,Healthcare,0.1,568.0,Sweden,100.0
+1965,Picsart,Miami,Consumer,0.08,195.0,United States,90.0
+1966,Zak,Sao Paulo,Food,0.4,29.0,United States,100.0
+1968,AliExpress Russia,Moscow,Retail,0.4,60.0,Russia,400.0
+1975,DataRobot,Boston,Data,0.07,1000.0,United States,70.0
+1976,Carvana,Phoenix,Transportation,0.12,1600.0,United States,2500.0
+1977,Doma,SF Bay Area,Finance,0.15,679.0,United States,310.0
+1978,Pollen,London,Travel,0.33,238.0,United Kingdom,200.0
+1979,Latch,New York City,Security,0.06,342.0,United States,30.0
+1980,Meero,Paris,Other,0.5,293.0,France,350.0
+1981,Vroom,New York City,Transportation,0.14,1300.0,United States,270.0
+1982,Reef,Miami,Transportation,0.05,1500.0,United States,750.0
+1984,Vedantu,Bengaluru,Education,0.03,292.0,India,200.0
+1986,Mural,SF Bay Area,Product,0.1,192.0,United States,90.0
+1987,On Deck,SF Bay Area,Education,0.25,20.0,United States,72.0
+1988,SEND,Sydney,Food,1.0,3.0,Australia,300.0
+1990,Cameo,Chicago,Consumer,0.25,165.0,United States,87.0
+1991,Mainstreet,SF Bay Area,Finance,0.3,64.0,United States,45.0
+1996,Avo,Tel Aviv,Food,0.67,45.0,Israel,500.0
+1998,Domestika,SF Bay Area,Education,0.19,130.0,United States,150.0
+2001,Robinhood,SF Bay Area,Finance,0.09,5600.0,United States,340.0
+2002,Bonsai,Toronto,Retail,0.34,27.0,Canada,29.0
+2005,Xiaohongshu,Shanghai,Consumer,0.09,917.0,China,180.0
+2006,Facily,Sao Paulo,Retail,0.3,502.0,Brazil,260.0
+2008,Blend,SF Bay Area,Finance,0.1,665.0,United States,200.0
+2009,QuintoAndar,Sao Paulo,Real Estate,0.04,755.0,Brazil,160.0
+2015,Ahead,SF Bay Area,Healthcare,1.0,9.0,United States,44.0
+2017,Rad Power Bikes,Seattle,Transportation,0.14,329.0,United States,100.0
+2019,Food52,New York City,Food,0.1,176.0,United States,20.0
+2020,Unacademy,Bengaluru,Education,0.17,838.0,India,1000.0
+2024,BitMEX,Non-U.S.,Crypto,0.25,0.0,Seychelles,75.0
+2025,Legible,Vancouver,Media,0.38,3.0,Canada,23.0
+2028,Rasa,Berlin,Data,0.4,40.0,Germany,59.0
+2029,Gopuff,Philadelphia,Food,0.03,3400.0,United States,450.0
+2030,Thinkific,Vancouver,Education,0.2,22.0,Canada,100.0
+2033,Storytel,Stockholm,Media,0.1,275.0,Sweden,100.0
+2035,Trell,Bengaluru,Retail,0.5,62.0,India,300.0
+2036,Knock,New York City,Real Estate,0.46,654.0,United States,115.0
+2039,Better.com,New York City,Real Estate,0.33,905.0,United States,3000.0
+2040,Adaptive Biotechnologies,Seattle,Healthcare,0.12,406.0,United States,100.0
+2041,Hyperscience,New York City,Data,0.25,289.0,United States,100.0
+2043,Wish,SF Bay Area,Retail,0.15,1600.0,United States,190.0
+2047,Virgin Hyperloop,Los Angeles,Transportation,0.5,368.0,United States,111.0
+2049,Liv Up,Sao Paulo,Food,0.15,118.0,Brazil,100.0
+2050,Homie,Salt Lake City,Real Estate,0.29,35.0,United States,119.0
+2051,Hopin,London,Other,0.12,1000.0,United States,138.0
+2052,Daily Harvest,New York City,Food,0.2,120.0,United States,60.0
+2053,Peloton,New York City,Fitness,0.2,1900.0,United States,2800.0
+2055,Rhino,New York City,Real Estate,0.2,133.0,United States,57.0
+2057,Glossier,New York City,Consumer,0.33,266.0,United States,80.0
+2062,Better.com,New York City,Real Estate,0.09,905.0,United States,900.0
+2063,BitTitan,Seattle,Data,0.27,46.0,United States,70.0
+2064,Zillow,Seattle,Real Estate,0.25,97.0,United States,2000.0
+2070,Treehouse,Portland,Education,0.9,12.0,United States,41.0
+2073,Flockjay,SF Bay Area,Education,0.5,14.0,United States,37.0
+2076,Katerra,SF Bay Area,Construction,1.0,1600.0,United States,2434.0
+2081,New Relic,SF Bay Area,Infrastructure,0.07,214.5,United States,160.0
+2088,Bounce,Bengaluru,Transportation,0.4,214.2,India,200.0
+2092,Quandoo,Berlin,Food,0.2,39.0,Germany,87.0
+2093,Hubba,Toronto,Retail,1.0,61.0,Canada,45.0
+2097,Postmates,SF Bay Area,Food,0.15,763.0,United States,180.0
+2099,Pocketmath,Singapore,Marketing,1.0,20.0,Singapore,21.0
+2100,Dropbox,SF Bay Area,Other,0.15,1700.0,United States,315.0
+2105,Breather,Montreal,Real Estate,0.8,131.0,Canada,120.0
+2109,Aya,Toronto,Finance,0.25,3.0,United States,5.0
+2111,Bridge Connector,Nashville,Healthcare,1.0,45.0,United States,154.0
+2115,Worksmith,Austin,Retail,0.5,3.8,United States,30.0
+2120,Knotel,New York City,Real Estate,0.08,560.0,United States,20.0
+2125,GetYourGuide,Berlin,Travel,0.17,656.0,Germany,90.0
+2128,Alto Pharmacy,SF Bay Area,Healthcare,0.06,356.0,United States,47.0
+2133,NS8,Las Vegas,Data,0.95,157.9,United States,240.0
+2136,Waze,SF Bay Area,Transportation,0.054,67.0,United States,30.0
+2142,GoBear,Singapore,Finance,0.11,97.0,Singapore,22.0
+2143,MakeMyTrip,New Delhi,Travel,0.1,548.0,India,350.0
+2144,Salesforce,SF Bay Area,Sales,0.0185,65.4,United States,1000.0
+2149,Docly,London,Healthcare,0.8,15.5,United Kingdom,8.0
+2156,Mozilla,SF Bay Area,Consumer,0.25,2.3,United States,250.0
+2157,Eatsy,Singapore,Food,1.0,0.9755,Singapore,20.0
+2158,Glossier,New York City,Retail,0.38,186.4,United States,150.0
+2160,Thriver,Toronto,Food,0.5,53.0,Canada,75.0
+2163,Buy.com / Rakuten,SF Bay Area,Retail,1.0,42.4,United States,87.0
+2166,Procore,Los Angeles,Construction,0.09,649.0,United States,180.0
+2167,Swiggy,Bengaluru,Food,0.05,1600.0,India,350.0
+2168,Zeitgold,Berlin,Finance,0.72,60.18,Germany,75.0
+2170,Checkr,SF Bay Area,HR,0.12,309.0,United States,64.0
+2172,LinkedIn,SF Bay Area,Recruiting,0.06,154.0,United States,960.0
+2173,Lighter Capital,Seattle,Finance,0.49,15.0,United States,22.0
+2176,Optimizely,SF Bay Area,Marketing,0.15,251.2,United States,60.0
+2177,Skyscanner,Edinburgh,Travel,0.2,197.2,United Kingdom,300.0
+2181,Zilingo,Singapore,Retail,0.12,307.0,Singapore,100.0
+2189,G2,Chicago,Marketing,0.05,100.8,United States,17.0
+2191,Katerra,SF Bay Area,Construction,0.07,1300.0,United States,400.0
+2192,Bounce,Bengaluru,Transportation,0.22,214.2,India,130.0
+2200,Sonos,New York City,Consumer,0.12,455.2,United States,174.0
+2202,Gojek,Jakarta,Transportation,0.09,4800.0,Indonesia,430.0
+2203,ScaleFactor,Austin,Finance,0.9,103.0,United States,90.0
+2204,Dark,SF Bay Area,Product,1.0,3.0,United States,6.0
+2205,Intuit,SF Bay Area,Finance,0.07,18.0,United States,715.0
+2208,Navi,Bengaluru,Finance,0.25,582.0,India,40.0
+2209,PaisaBazaar,Gurugram,Finance,0.5,496.0,India,1500.0
+2210,Grab,Singapore,Transportation,0.05,9900.0,Singapore,360.0
+2211,Splunk,SF Bay Area,Data,0.01,40.0,United States,70.0
+2212,Redox,Madison,Healthcare,0.25,50.0,United States,44.0
+2215,Uber,Amsterdam,Transportation,0.25,24700.0,Netherlands,225.0
+2216,SynapseFI,SF Bay Area,Finance,0.48,50.0,United States,63.0
+2218,Branch,New York City,Retail,0.27,2.0,United States,3.0
+2221,The Athletic,SF Bay Area,Media,0.08,139.0,United States,46.0
+2222,Ethos Life,SF Bay Area,Finance,0.14,106.0,United States,18.0
+2223,Lastline,SF Bay Area,Security,0.4,52.0,United States,50.0
+2224,Builder,Los Angeles,Product,0.14,29.0,United States,39.0
+2226,Monzo,London,Finance,0.08,324.0,United Kingdom,120.0
+2228,SpotHero,Chicago,Transportation,0.21,117.0,United States,40.0
+2229,Credit Sesame,SF Bay Area,Finance,0.14,120.0,United States,22.0
+2231,Rivian,Detroit,Transportation,0.02,3100.0,United States,40.0
+2232,Fundbox,SF Bay Area,Finance,0.15,453.0,United States,14.0
+2233,Descartes Labs,Santa Fe,Data,0.16,58.0,United States,12.0
+2235,Stitch Fix,SF Bay Area,Retail,0.18,79.0,United States,1400.0
+2236,MakeMyTrip,Gurugram,Travel,0.1,548.0,India,350.0
+2237,CrowdStreet,Portland,Real Estate,0.22,24.0,United States,24.0
+2238,Brex,SF Bay Area,Finance,0.15,732.0,United States,62.0
+2239,Loftium,Seattle,Real Estate,0.6,17.0,United States,32.0
+2240,BookMyShow,Mumbai,Consumer,0.18,224.0,India,270.0
+2241,TrueCar,Los Angeles,Transportation,0.3,340.0,United States,219.0
+2243,Culture Amp,Melbourne,HR,0.08,157.0,Australia,36.0
+2244,The Sill,New York City,Retail,0.25,7.0,United States,20.0
+2245,Instructure,Salt Lake City,Education,0.12,89.0,United States,150.0
+2246,Ebanx,Curitiba,Finance,0.08,30.0,Brazil,62.0
+2247,Uber,Bengaluru,Transportation,0.23,24700.0,India,600.0
+2248,Bluprint,Denver,Education,1.0,108.0,United States,137.0
+2252,Cvent,Washington D.C.,Marketing,0.1,146.0,United States,400.0
+2253,PickYourTrail,Chennai,Travel,0.35,3.0,India,70.0
+2254,Glitch,New York City,Product,0.36,30.0,United States,18.0
+2256,Ola,Bengaluru,Transportation,0.35,3800.0,India,1400.0
+2257,Samsara,SF Bay Area,Logistics,0.18,530.0,United States,300.0
+2258,Stay Alfred,Spokane,Travel,1.0,62.0,United States,221.0
+2259,SoFi,SF Bay Area,Finance,0.07,2500.0,United States,112.0
+2260,ShareChat,Bengaluru,Marketing,0.25,222.0,India,101.0
+2261,Intercom,SF Bay Area,Support,0.06,240.0,United States,39.0
+2262,Livspace,Bengaluru,Retail,0.15,157.0,India,450.0
+2263,Pollen,London,Travel,0.31,88.0,United Kingdom,69.0
+2266,Uber,SF Bay Area,Transportation,0.13,24700.0,United States,3000.0
+2268,Swiggy,Bengaluru,Food,0.14,1600.0,India,1100.0
+2269,WeWork,New Delhi,Real Estate,0.2,19500.0,India,100.0
+2275,Zomato,Gurugram,Food,0.13,914.0,India,520.0
+2276,Lendingkart,Ahmedabad,Finance,0.5,200.0,India,500.0
+2277,Lattice,SF Bay Area,HR,0.1,49.0,United States,16.0
+2279,Cruise,SF Bay Area,Transportation,0.08,5300.0,United States,150.0
+2281,Integral Ad Science,New York City,Marketing,0.1,116.0,United States,70.0
+2282,Ridecell,SF Bay Area,Transportation,0.15,73.0,United States,35.0
+2286,Deliv,SF Bay Area,Retail,1.0,80.0,United States,669.0
+2287,Mercos,Joinville,Sales,0.4,2.0,Brazil,51.0
+2288,Kickstarter,New York City,Finance,0.18,10.0,United States,25.0
+2295,Zeus Living,SF Bay Area,Real Estate,0.5,79.0,United States,73.0
+2296,Mixpanel,SF Bay Area,Data,0.19,77.0,United States,65.0
+2297,Hireology,Chicago,Recruiting,0.17,52.0,United States,36.0
+2298,Top Hat,Toronto,Education,0.03,104.0,Canada,16.0
+2301,Revolut,London,Finance,0.03,837.0,United Kingdom,60.0
+2302,Cadre,New York City,Real Estate,0.25,133.0,United States,28.0
+2303,N26,New York City,Finance,0.01,782.0,United States,9.0
+2304,Jump,New York City,Transportation,1.0,11.0,United States,500.0
+2305,Glassdoor,SF Bay Area,Recruiting,0.3,204.0,United States,300.0
+2306,Numbrs,Zurich,Finance,0.5,78.0,Switzerland,62.0
+2307,Flywire,Boston,Finance,0.12,263.0,United States,60.0
+2309,Tally,SF Bay Area,Finance,0.23,92.0,United States,28.0
+2311,Uber,SF Bay Area,Transportation,0.14,24700.0,United States,3700.0
+2314,Rubicon Project,Los Angeles,Marketing,0.08,60.0,United States,50.0
+2315,Segment,SF Bay Area,Data,0.1,283.0,United States,50.0
+2318,Airbnb,SF Bay Area,Travel,0.25,5400.0,United States,1900.0
+2319,Juul,SF Bay Area,Consumer,0.3,1500.0,United States,900.0
+2320,Andela,New York City,Recruiting,0.1,181.0,United States,135.0
+2321,Stack Overflow,New York City,Recruiting,0.15,68.0,United States,40.0
+2323,Workable,Boston,Recruiting,0.1,84.0,United States,25.0
+2327,CureFit,Bengaluru,Fitness,0.16,404.0,India,800.0
+2328,Careem,Dubai,Transportation,0.31,771.0,United Arab Emirates,536.0
+2329,Oriente,Hong Kong,Finance,0.2,175.0,Hong Kong,400.0
+2330,Veriff,Tallinn,Security,0.21,7.0,Estonia,63.0
+2331,Element AI,Montreal,Other,0.15,257.0,Canada,62.0
+2332,Deputy,Sydney,HR,0.3,106.0,Australia,60.0
+2333,Loopio,Toronto,Sales,0.08,11.0,Canada,11.0
+2336,Trax,Tel Aviv,Retail,0.1,386.0,Israel,120.0
+2339,Namely,New York City,HR,0.4,217.0,United States,110.0
+2340,Culture Trip,London,Media,0.32,102.0,United Kingdom,95.0
+2341,Sandbox VR,SF Bay Area,Consumer,0.8,82.0,United States,80.0
+2344,TheSkimm,New York City,Media,0.2,28.0,United States,26.0
+2353,Lyft,SF Bay Area,Transportation,0.17,4900.0,United States,982.0
+2355,Kayak / OpenTable,Stamford,Travel,0.08,229.0,United States,160.0
+2357,Lime,SF Bay Area,Transportation,0.13,765.0,United States,80.0
+2358,Transfix,New York City,Logistics,0.1,128.0,United States,24.0
+2360,TripAdvisor,Boston,Travel,0.25,3.0,United States,900.0
+2362,Deliveroo,London,Food,0.15,1500.0,United Kingdom,367.0
+2363,App Annie,SF Bay Area,Data,0.18,156.0,United States,80.0
+2364,OpenX,Los Angeles,Marketing,0.15,70.0,United States,35.0
+2365,PayJoy,SF Bay Area,Finance,0.25,71.0,United States,27.0
+2366,Shipsi,Los Angeles,Retail,0.5,2.0,United States,20.0
+2369,Automation Anywhere,SF Bay Area,Other,0.1,840.0,United States,260.0
+2370,JetClosing,Seattle,Real Estate,0.2,24.0,United States,20.0
+2374,Submittable,Missoula,Other,0.2,17.0,United States,30.0
+2375,Divergent 3D,Los Angeles,Transportation,0.36,88.0,United States,57.0
+2376,Ada Support,Toronto,Support,0.23,60.0,Canada,36.0
+2377,UPshow,Chicago,Marketing,0.3,7.0,United States,19.0
+2378,Lighter Capital,Seattle,Finance,0.22,15.0,United States,18.0
+2379,Horizn Studios,Berlin,Travel,0.25,30.0,Germany,15.0
+2380,Welkin Health,SF Bay Area,Healthcare,0.33,29.0,United States,10.0
+2381,Jiobit,Chicago,Consumer,0.21,12.0,United States,6.0
+2382,TutorMundi,Sao Paulo,Education,1.0,2.0,Brazil,4.0
+2385,StockX,Detroit,Retail,0.12,160.0,United States,100.0
+2386,Zenefits,SF Bay Area,HR,0.15,583.0,United States,87.0
+2387,Sisense,New York City,Data,0.09,274.0,United States,80.0
+2388,Oscar Health,New York City,Healthcare,0.05,1300.0,United States,70.0
+2393,Magic Leap,Miami,Consumer,0.5,2600.0,United States,1000.0
+2394,When I Work,Minneapolis,HR,0.35,24.0,United States,55.0
+2395,Ike,SF Bay Area,Transportation,0.14,52.0,United States,10.0
+2402,Lending Club,SF Bay Area,Finance,0.3,392.0,United States,460.0
+2403,Houzz,SF Bay Area,Consumer,0.1,613.0,United States,155.0
+2404,Casper,New York City,Retail,0.21,339.0,United States,78.0
+2405,RealSelf,Seattle,Healthcare,0.13,42.0,United States,40.0
+2406,Freshbooks,Toronto,Finance,0.09,75.0,Canada,38.0
+2407,Patreon,SF Bay Area,Media,0.13,165.0,United States,30.0
+2410,Bringg,Tel Aviv,Logistics,0.1,84.0,Israel,10.0
+2411,Klook,Hong Kong,Travel,0.15,521.0,Hong Kong,300.0
+2412,ConsenSys,New York City,Crypto,0.14,10.0,United States,91.0
+2413,GumGum,Los Angeles,Marketing,0.25,58.0,United States,90.0
+2414,Kueski,Guadalajara,Finance,0.3,38.0,Mexico,90.0
+2415,Movidesk,Blumenau,Support,0.25,1.0,Brazil,33.0
+2417,Komodo Health,SF Bay Area,Healthcare,0.09,50.0,United States,23.0
+2418,Forward,SF Bay Area,Healthcare,0.03,100.0,United States,10.0
+2422,ContaAzul,Joinville,Education,0.35,37.0,Brazil,140.0
+2423,Greenhouse,New York City,Recruiting,0.28,110.0,United States,120.0
+2424,QuintoAndar,Sao Paulo,Real Estate,0.08,335.0,Brazil,88.0
+2425,Loft,Sao Paulo,Real Estate,0.1,263.0,Brazil,47.0
+2426,Zilingo,Singapore,Retail,0.05,307.0,Singapore,44.0
+2428,Sweetgreen,Los Angeles,Food,0.1,478.0,United States,35.0
+2429,People.ai,SF Bay Area,Marketing,0.18,100.0,United States,30.0
+2430,Tor,Boston,Security,0.37,1.0,United States,13.0
+2435,CarGurus,Boston,Transportation,0.13,1.0,United States,130.0
+2436,Funding Societies,Singapore,Finance,0.18,42.0,Singapore,65.0
+2437,CleverTap,Mumbai,Marketing,0.2,76.0,India,60.0
+2444,Opendoor,SF Bay Area,Real Estate,0.35,1500.0,United States,600.0
+2445,GoPro,SF Bay Area,Consumer,0.2,288.0,United States,200.0
+2446,Shop101,Mumbai,Retail,0.4,19.0,India,200.0
+2447,Zume,SF Bay Area,Food,0.67,423.0,United States,200.0
+2448,Carta,SF Bay Area,Finance,0.16,447.0,United States,161.0
+2450,Parsable,SF Bay Area,HR,0.25,72.0,United States,40.0
+2451,Kodiak Robotics,SF Bay Area,Transportation,0.2,40.0,United States,15.0
+2457,The RealReal,SF Bay Area,Retail,0.1,358.0,United States,235.0
+2458,TouchBistro,Toronto,Food,0.23,224.0,Canada,131.0
+2459,Envoy,SF Bay Area,HR,0.3,59.0,United States,58.0
+2460,VSCO,SF Bay Area,Consumer,0.35,90.0,United States,45.0
+2466,Groupon,Chicago,Retail,0.44,1400.0,United States,2800.0
+2467,Zoox,SF Bay Area,Transportation,0.1,955.0,United States,100.0
+2468,Neon,Sao Paulo,Finance,0.1,120.0,Brazil,70.0
+2469,EasyPost,SF Bay Area,Logistics,0.25,12.0,United States,50.0
+2470,Clearbanc,Toronto,Finance,0.08,119.0,Canada,17.0
+2472,Frontdesk,Milwaukee,Travel,0.16,3.0,United States,35.0
+2475,NuoDB,Boston,Data,0.29,85.0,United States,20.0
+2476,Rhumbix,SF Bay Area,Construction,0.27,35.0,United States,16.0
+2477,Atsu,Seattle,Infrastructure,1.0,1.0,United States,6.0
+2480,Yelp,SF Bay Area,Consumer,0.17,56.0,United States,1000.0
+2482,OneTrust,Atlanta,Legal,0.1,410.0,United States,150.0
+2483,Omie,Sao Paulo,Finance,0.31,26.0,Brazil,136.0
+2484,Domo,Salt Lake City,Data,0.1,689.0,United States,90.0
+2485,Matterport,SF Bay Area,Data,0.34,114.0,United States,90.0
+2486,Clinc,Ann Arbor,Support,0.32,59.0,United States,40.0
+2487,Mejuri,Toronto,Retail,0.15,28.0,Canada,36.0
+2488,Code42,Minneapolis,Data,0.05,137.5,United States,25.0
+2490,LoopMe,London,Marketing,0.04,32.0,United Kingdom,8.0
+2494,Eventbrite,SF Bay Area,Consumer,0.45,332.0,United States,500.0
+2495,Meesho,Bengaluru,Retail,0.28,215.0,India,200.0
+2496,Scoop,SF Bay Area,Transportation,0.33,95.0,United States,92.0
+2497,Unison,SF Bay Area,Finance,0.45,40.0,United States,89.0
+2498,Lever,SF Bay Area,Recruiting,0.4,72.0,United States,86.0
+2499,Unbabel,Lisbon,Support,0.35,91.0,Portugal,80.0
+2500,Button,New York City,Marketing,0.35,64.0,United States,48.0
+2501,Eden / Managed By Q,New York City,Real Estate,0.4,40.0,United States,40.0
+2502,Quantcast,SF Bay Area,Marketing,0.05,65.0,United States,30.0
+2504,VideoAmp,Los Angeles,Marketing,0.1,106.0,United States,21.0
+2505,Kenoby,Sao Paulo,Recruiting,0.16,23.0,Brazil,18.0
+2507,GetNinjas,Sao Paulo,Consumer,0.1,16.0,Brazil,11.0
+2508,Spyce,Boston,Food,0.12,26.0,United States,4.0
+2515,Toast,Boston,Food,0.5,902.0,United States,1300.0
+2516,ezCater,Boston,Food,0.44,319.0,United States,400.0
+2517,Sage Therapeutics,Boston,Healthcare,0.53,438.0,United States,340.0
+2518,Redfin,Seattle,Real Estate,0.07,319.0,United States,236.0
+2519,Branch Metrics,SF Bay Area,Marketing,0.2,367.0,United States,100.0
+2521,Ibotta,Denver,Retail,0.15,85.0,United States,87.0
+2523,Away,New York City,Retail,0.1,181.0,United States,60.0
+2524,MediaMath,New York City,Marketing,0.08,607.0,United States,53.0
+2525,Group Nine Media,New York City,Media,0.07,190.0,United States,50.0
+2530,Metromile,SF Bay Area,Finance,0.33,293.0,United States,100.0
+2531,Rock Content,Belo Horizonte,Marketing,0.2,0.7,Brazil,100.0
+2532,BounceX,New York City,Marketing,0.2,75.0,United States,77.0
+2534,Wordstream,Boston,Marketing,0.1,28.0,United States,26.0
+2535,Cogito,Boston,Support,0.14,92.0,United States,24.0
+2536,BusBud,Montreal,Transportation,0.32,21.0,Canada,23.0
+2537,Borrowell,Toronto,Finance,0.2,72.0,Canada,15.0
+2538,PerkSpot,Chicago,HR,0.1,50.0,United States,10.0
+2542,Astra,SF Bay Area,Aerospace,0.25,100.0,United States,40.0
+2543,Iflix,Kuala Lumpur,Consumer,0.12,348.0,Malaysia,50.0
+2544,Gympass,Sao Paulo,Fitness,0.33,300.0,Brazil,467.0
+2545,Sojern,SF Bay Area,Marketing,0.5,162.0,United States,300.0
+2547,Minted,SF Bay Area,Retail,0.37,297.0,United States,147.0
+2551,Arrive Logistics,Austin,Logistics,0.07,35.0,United States,75.0
+2552,Salsify,Boston,Retail,0.13,97.0,United States,60.0
+2553,Jetty,New York City,Finance,0.4,40.0,United States,35.0
+2554,D2iQ,SF Bay Area,Infrastructure,0.13,247.0,United States,34.0
+2555,Bustle Digital Group,New York City,Media,0.08,80.0,United States,24.0
+2557,Opencare,Toronto,Healthcare,0.25,24.0,Canada,18.0
+2569,MindBody,San Luis Obispo,Fitness,0.35,114.0,United States,700.0
+2570,Katerra,SF Bay Area,Construction,0.03,1200.0,United States,240.0
+2571,Ritual,Toronto,Food,0.54,112.0,Canada,196.0
+2572,ClassPass,New York City,Fitness,0.22,549.0,United States,154.0
+2573,eGym,Munich,Fitness,0.25,109.0,Germany,100.0
+2575,Industrious,New York City,Real Estate,0.2,222.0,United States,90.0
+2576,1stdibs,New York City,Retail,0.17,253.0,United States,70.0
+2577,ThirdLove,SF Bay Area,Retail,0.3,68.0,United States,65.0
+2579,The Predictive Index,Boston,HR,0.25,65.0,United States,59.0
+2581,Jobcase,Boston,Recruiting,0.2,118.0,United States,39.0
+2583,Dynamic Signal,SF Bay Area,HR,0.19,114.0,United States,35.0
+2585,Sauce Labs,SF Bay Area,Infrastructure,0.15,151.0,United States,30.0
+2587,TripleLift,New York City,Marketing,0.07,16.0,United States,23.0
+2588,Coding Dojo,Seattle,Education,0.07,2.0,United States,7.0
+2589,Instamojo,Bengaluru,Finance,0.06,8.0,India,6.0
+2590,Synergysuite,Salt Lake City,Food,0.07,6.0,United States,5.0
+2598,PatientPop,Los Angeles,Healthcare,0.2,75.0,United States,100.0
+2599,Showpad,Chicago,Marketing,0.12,159.0,United States,52.0
+2600,Highsnobiety,Berlin,Media,0.25,8.5,Germany,51.0
+2601,Earnin,SF Bay Area,Finance,0.2,190.0,United States,50.0
+2602,Wonolo,SF Bay Area,Recruiting,0.13,52.0,United States,46.0
+2603,Acko,Mumbai,Finance,0.09,143.0,India,45.0
+2605,Aqua Security,Tel Aviv,Security,0.09,100.0,Israel,24.0
+2606,Crayon,Boston,Marketing,0.2,16.0,United States,20.0
+2608,Sensibill,Toronto,Finance,0.2,50.0,Canada,17.0
+2609,Usermind,Seattle,Marketing,0.25,46.0,United States,15.0
+2610,Incredible Health,SF Bay Area,Healthcare,0.4,15.0,United States,9.0
+2617,KeepTruckin,SF Bay Area,Logistics,0.18,227.0,United States,349.0
+2618,AdRoll,Salt Lake City,Marketing,0.3,89.0,United States,210.0
+2619,Rover,Seattle,Consumer,0.41,310.0,United States,194.0
+2620,Turo,SF Bay Area,Transportation,0.3,467.0,United States,108.0
+2621,uShip,Austin,Logistics,0.37,69.0,United States,65.0
+2625,Zenoti,Seattle,Fitness,0.04,91.0,United States,17.0
+2626,DialSource,Sacramento,Marketing,0.14,26.0,United States,5.0
+2633,Thumbtack,SF Bay Area,Consumer,0.3,423.0,United States,250.0
+2634,RigUp,Austin,Energy,0.25,423.0,United States,120.0
+2635,FabHotels,New Delhi,Travel,0.2,48.0,India,80.0
+2636,Hibob,Tel Aviv,HR,0.3,45.0,Israel,70.0
+2637,PeerStreet,Los Angeles,Finance,0.3,110.0,United States,51.0
+2638,Maven,Seattle,Media,0.09,77.0,United States,31.0
+2642,Loftsmart,New York City,Real Estate,0.75,18.0,United States,25.0
+2644,Iris Nova,New York City,Food,0.5,15.0,United States,9.0
+2646,ZipRecruiter,Los Angeles,Recruiting,0.39,219.0,United States,400.0
+2647,Amplero,Seattle,Marketing,1.0,25.0,United States,17.0
+2649,TravelTriangle,Gurugram,Travel,0.5,47.0,India,250.0
+2652,OneWeb,London,Aerospace,0.85,3000.0,United Kingdom,451.0
+2653,Bird,Los Angeles,Transportation,0.3,623.0,United States,406.0
+2654,HOOQ,Singapore,Consumer,1.0,95.0,Singapore,250.0
+2658,Blueground,New York City,Real Estate,0.25,77.0,United States,130.0
+2659,Knotel,New York City,Real Estate,0.3,560.0,United States,127.0
+2660,Getaround,SF Bay Area,Transportation,0.25,403.0,United States,100.0
+2661,Zipcar,Boston,Transportation,0.2,107.0,United States,100.0
+2662,Mogo,Vancouver,Finance,0.3,201.0,Canada,78.0
+2665,Bench,Vancouver,Finance,0.1,49.0,Canada,47.0
+2668,Bevi,Boston,Food,0.2,60.0,United States,30.0
+2669,Textio,Seattle,Recruiting,0.2,41.0,United States,30.0
+2675,B8ta,SF Bay Area,Retail,0.5,88.0,United States,250.0
+2677,Puppet,Portland,Infrastructure,0.1,149.0,United States,50.0
+2678,Ecobee,Toronto,Energy,0.1,149.0,Canada,47.0
+2680,Peerspace,SF Bay Area,Real Estate,0.75,34.0,United States,41.0
+2681,GoSpotCheck,Denver,Retail,0.2,47.0,United States,23.0
+2682,Consider.co,SF Bay Area,Other,1.0,5.0,United States,13.0
+2684,TripActions,SF Bay Area,Travel,0.25,981.0,United States,300.0
+2688,WanderJaunt,SF Bay Area,Travel,0.23,26.0,United States,56.0
+2689,OutboundEngine,Austin,Marketing,0.28,48.0,United States,52.0
+2690,Wonderschool,SF Bay Area,Education,0.75,24.0,United States,50.0
+2691,Overtime,New York City,Media,0.23,35.0,United States,30.0
+2692,Jama,Portland,Product,0.05,233.0,United States,12.0
+2698,Sonder,SF Bay Area,Travel,0.33,359.0,United States,400.0
+2700,Foodsby,Minneapolis,Food,0.67,20.0,United States,87.0
+2701,Zeus Living,SF Bay Area,Real Estate,0.3,79.0,United States,80.0
+2706,Compass,New York City,Real Estate,0.15,1600.0,United States,375.0
+2707,Convene,New York City,Real Estate,0.18,280.0,United States,150.0
+2708,Leafly,Seattle,Retail,0.5,2.0,United States,91.0
+2709,The Guild,Austin,Travel,0.22,36.0,United States,38.0
+2711,GrayMeta,Los Angeles,Data,0.4,7.0,United States,20.0
+2712,Triplebyte,SF Bay Area,Recruiting,0.17,48.0,United States,15.0
+2713,Ladder Life,SF Bay Area,Finance,0.25,94.0,United States,13.0
+2717,Flywheel Sports,New York City,Fitness,0.98,120.0,United States,784.0
+2719,CTO.ai,Vancouver,Infrastructure,0.5,7.0,Canada,30.0
+2725,Remote Year,Chicago,Travel,0.5,17.0,United States,50.0
+2730,Flytedesk,Boulder,Marketing,0.2,4.0,United States,4.0
+2731,Inspirato,Denver,Travel,0.22,79.0,United States,130.0
+2732,Help.com,Austin,Support,1.0,6.0,United States,16.0
+2734,HopSkipDrive,Los Angeles,Transportation,0.1,45.0,United States,8.0
+2735,Panda Squad,SF Bay Area,Consumer,0.75,1.0,United States,6.0
+2736,Tamara Mellon,Los Angeles,Retail,0.4,90.0,United States,20.0
